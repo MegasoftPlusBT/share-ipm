@@ -55,7 +55,7 @@ const KeyFindings = ({ media, keyFindings }) => {
       <h1 className="text-5xl md:text-6xl lg:text-6xl xl:text-6xl 2xl:text-6xl mb-8">
         Važni nalazi
       </h1>
-      <ToggleYear year={year} setYear={setYear} />
+      <ToggleYear year={year} setYear={setYear} media={media} />
       <div className="mt-8">
         {year === "2024" && (
           <>
