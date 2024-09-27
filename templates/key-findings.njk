@@ -1,0 +1,24 @@
+{% extends "./base.njk" %}
+
+{% block main %}
+
+  <h1>{{ title }}</h1>
+  <p>
+    Od <b>50</b> ocenjenih onlajn medija, samo <b>devet</b> se opredelilo za hostovanje svog sajta u Srbiji. Najčešći izbor mesta za hosting server domaćih medija je Nemačka. Iako zakon propisuje jasan i pošten odnos prema ličnim podacima građana, onlajn mediji retko uspevaju da artikulišu svoj proces obrade podataka. U svetu metapodataka, situacija je još teža - opet na štetu građana. Mobilne aplikacije traže intruzivne dozvole, kolačići i trekeri neprimetno prate ponašanje korisnika na internetu, obezbeđujući profit od preprodaje privatnosti.
+  </p>
+  <p>
+    Principe poštovanja privatnosti iz Kodeksa novinara narušilo je samo <b>devet</b> od <b>50</b> onlajn medija. Ali tih <b>devet</b> kršilo je privatnost za sve ostale, <b>52</b> puta.
+  </p>
+  {% for row in perCategoryData %}
+    <div class="per-category-wrapper" id="{{ row.handle }}">
+      
+      <h3 class="per-category-headline">
+        <div class="square" style="background-color:{{ row.color }}"></div>
+        {{ row.category }}
+      </h3>
+      <div class="html-code-wrapper">
+        {{ row.html|safe }}
+      </div>
+    </div>
+  {% endfor %}
+{% endblock %}

@@ -1,0 +1,730 @@
+[
+    [
+        "category",
+        "color",
+        "indicator",
+        "indicator-short",
+        "response",
+        "points"
+    ],
+    [
+        "Osnovni tehnički parametri",
+        "ffe600",
+        "Da li sajt ima podešen HTTPS protokol?",
+        "Sigurni protokol",
+        "Da",
+        "9"
+    ],
+    [
+        "Osnovni tehnički parametri",
+        "ffe600",
+        "Da li sajt ima podešen HTTPS protokol?",
+        "Sigurni protokol",
+        "Ne",
+        "0"
+    ],
+    [
+        "Osnovni tehnički parametri",
+        "ffe600",
+        "U kojoj jurisdikciji se nalazi hosting server?",
+        "Hosting",
+        "Srbija i adekvatne države po pravu RS",
+        "2"
+    ],
+    [
+        "Osnovni tehnički parametri",
+        "ffe600",
+        "U kojoj jurisdikciji se nalazi hosting server?",
+        "Hosting",
+        "SAD",
+        "1"
+    ],
+    [
+        "Osnovni tehnički parametri",
+        "ffe600",
+        "U kojoj jurisdikciji se nalazi hosting server?",
+        "Hosting",
+        "Treća država",
+        "0"
+    ],
+    [
+        "Osnovni tehnički parametri",
+        "ffe600",
+        "U kojoj jurisdikciji se nalazi hosting server?",
+        "Hosting",
+        "Maskirana lokacija, bez obaveštenja u politikama privatnosti",
+        "0"
+    ],
+    [
+        "Osnovni tehnički parametri",
+        "ffe600",
+        "Da li podaci prolaze kroz države sa neadekvatnim standardima?",
+        "Put podataka",
+        "Ne",
+        "2"
+    ],
+    [
+        "Osnovni tehnički parametri",
+        "ffe600",
+        "Da li podaci prolaze kroz države sa neadekvatnim standardima?",
+        "Put podataka",
+        "SAD",
+        "1"
+    ],
+    [
+        "Osnovni tehnički parametri",
+        "ffe600",
+        "Da li podaci prolaze kroz države sa neadekvatnim standardima?",
+        "Put podataka",
+        "Da",
+        "0"
+    ],
+    [
+        "Osnovni tehnički parametri",
+        "ffe600",
+        "Da li se koriste usluge posredovanja sadržaja između hostinga i korisnika i gde se servis nalazi?",
+        "Posrednički servisi",
+        "Ne ili Da, u adekvatnim državama",
+        "2"
+    ],
+    [
+        "Osnovni tehnički parametri",
+        "ffe600",
+        "Da li se koriste usluge posredovanja sadržaja između hostinga i korisnika i gde se servis nalazi?",
+        "Posrednički servisi",
+        "Da, u SAD",
+        "1"
+    ],
+    [
+        "Osnovni tehnički parametri",
+        "ffe600",
+        "Da li se koriste usluge posredovanja sadržaja između hostinga i korisnika i gde se servis nalazi?",
+        "Posrednički servisi",
+        "Da, u neadekvatnim državama",
+        "0"
+    ],
+    [
+        "Obaveštavanje korisnika",
+        "F8BC49",
+        "Da li sajt poseduje politiku privatnosti (izjavu, obaveštenje) i da li je dokument objavljen?",
+        "Politike privatnosti",
+        "Da",
+        "3"
+    ],
+    [
+        "Obaveštavanje korisnika",
+        "F8BC49",
+        "Da li sajt poseduje politiku privatnosti (izjavu, obaveštenje) i da li je dokument objavljen?",
+        "Politike privatnosti",
+        "Ne",
+        "0"
+    ],
+    [
+        "Obaveštavanje korisnika",
+        "F8BC49",
+        "Da li je naveden rukovalac podacima?",
+        "Rukovalac",
+        "Da",
+        "1"
+    ],
+    [
+        "Obaveštavanje korisnika",
+        "F8BC49",
+        "Da li je naveden rukovalac podacima?",
+        "Rukovalac",
+        "Ne",
+        "0"
+    ],
+    [
+        "Obaveštavanje korisnika",
+        "F8BC49",
+        "Da li je konkretno navedeno koji se sve podaci o ličnosti prikupljaju?",
+        "Vrste podataka",
+        "Da",
+        "2"
+    ],
+    [
+        "Obaveštavanje korisnika",
+        "F8BC49",
+        "Da li je konkretno navedeno koji se sve podaci o ličnosti prikupljaju?",
+        "Vrste podataka",
+        "Delimično",
+        "1"
+    ],
+    [
+        "Obaveštavanje korisnika",
+        "F8BC49",
+        "Da li je konkretno navedeno koji se sve podaci o ličnosti prikupljaju?",
+        "Vrste podataka",
+        "Ne",
+        "0"
+    ],
+    [
+        "Obaveštavanje korisnika",
+        "F8BC49",
+        "Da li je navedena svrha obrade podataka?",
+        "Svrha",
+        "Da",
+        "2"
+    ],
+    [
+        "Obaveštavanje korisnika",
+        "F8BC49",
+        "Da li je navedena svrha obrade podataka?",
+        "Svrha",
+        "Delimično",
+        "1"
+    ],
+    [
+        "Obaveštavanje korisnika",
+        "F8BC49",
+        "Da li je navedena svrha obrade podataka?",
+        "Svrha",
+        "Ne",
+        "0"
+    ],
+    [
+        "Obaveštavanje korisnika",
+        "F8BC49",
+        "Da li je naveden pravni osnov obrade podataka?",
+        "Pravni osnov",
+        "Da",
+        "2"
+    ],
+    [
+        "Obaveštavanje korisnika",
+        "F8BC49",
+        "Da li je naveden pravni osnov obrade podataka?",
+        "Pravni osnov",
+        "Delimično",
+        "1"
+    ],
+    [
+        "Obaveštavanje korisnika",
+        "F8BC49",
+        "Da li je naveden pravni osnov obrade podataka?",
+        "Pravni osnov",
+        "Ne",
+        "0"
+    ],
+    [
+        "Obaveštavanje korisnika",
+        "F8BC49",
+        "Da li je naveden rok čuvanja podataka?",
+        "Rok obrade",
+        "Da",
+        "2"
+    ],
+    [
+        "Obaveštavanje korisnika",
+        "F8BC49",
+        "Da li je naveden rok čuvanja podataka?",
+        "Rok obrade",
+        "Delimično",
+        "1"
+    ],
+    [
+        "Obaveštavanje korisnika",
+        "F8BC49",
+        "Da li je naveden rok čuvanja podataka?",
+        "Rok obrade",
+        "Ne",
+        "0"
+    ],
+    [
+        "Obaveštavanje korisnika",
+        "F8BC49",
+        "Da li je navedeno da li se podaci dele, ustupaju, prodaju?",
+        "Deljenje podataka",
+        "Da",
+        "2"
+    ],
+    [
+        "Obaveštavanje korisnika",
+        "F8BC49",
+        "Da li je navedeno da li se podaci dele, ustupaju, prodaju?",
+        "Deljenje podataka",
+        "Delimično",
+        "1"
+    ],
+    [
+        "Obaveštavanje korisnika",
+        "F8BC49",
+        "Da li je navedeno da li se podaci dele, ustupaju, prodaju?",
+        "Deljenje podataka",
+        "Ne",
+        "0"
+    ],
+    [
+        "Obaveštavanje korisnika",
+        "F8BC49",
+        "Ako se podaci dele, ustupaju, prodaju, da li je navedeno kome?",
+        "Treća strana",
+        "Da",
+        "2"
+    ],
+    [
+        "Obaveštavanje korisnika",
+        "F8BC49",
+        "Ako se podaci dele, ustupaju, prodaju, da li je navedeno kome?",
+        "Treća strana",
+        "Delimično",
+        "1"
+    ],
+    [
+        "Obaveštavanje korisnika",
+        "F8BC49",
+        "Ako se podaci dele, ustupaju, prodaju, da li je navedeno kome?",
+        "Treća strana",
+        "Ne",
+        "0"
+    ],
+    [
+        "Obaveštavanje korisnika",
+        "F8BC49",
+        "Da li je navedeno da li se podaci iznose iz Republike Srbije?",
+        "Izvoz podataka",
+        "Da",
+        "2"
+    ],
+    [
+        "Obaveštavanje korisnika",
+        "F8BC49",
+        "Da li je navedeno da li se podaci iznose iz Republike Srbije?",
+        "Izvoz podataka",
+        "Delimično",
+        "1"
+    ],
+    [
+        "Obaveštavanje korisnika",
+        "F8BC49",
+        "Da li je navedeno da li se podaci iznose iz Republike Srbije?",
+        "Izvoz podataka",
+        "Ne",
+        "0"
+    ],
+    [
+        "Obaveštavanje korisnika",
+        "F8BC49",
+        "Da li politika privatnosti informiše korisnike o pravima koja imaju u vezi sa svojim podacima o ličnosti (pristup, brisanje, izmena, dopuna, itd)?",
+        "Prava korisnika",
+        "Da",
+        "2"
+    ],
+    [
+        "Obaveštavanje korisnika",
+        "F8BC49",
+        "Da li politika privatnosti informiše korisnike o pravima koja imaju u vezi sa svojim podacima o ličnosti (pristup, brisanje, izmena, dopuna, itd)?",
+        "Prava korisnika",
+        "Delimično",
+        "1"
+    ],
+    [
+        "Obaveštavanje korisnika",
+        "F8BC49",
+        "Da li politika privatnosti informiše korisnike o pravima koja imaju u vezi sa svojim podacima o ličnosti (pristup, brisanje, izmena, dopuna, itd)?",
+        "Prava korisnika",
+        "Ne",
+        "0"
+    ],
+    [
+        "Obaveštavanje korisnika",
+        "F8BC49",
+        "Da li politika privatnosti sadrži kontakt na koji se građani mogu obratiti povodom pitanja obrade njihovih podataka?",
+        "Kontakt",
+        "Da",
+        "1"
+    ],
+    [
+        "Obaveštavanje korisnika",
+        "F8BC49",
+        "Da li politika privatnosti sadrži kontakt na koji se građani mogu obratiti povodom pitanja obrade njihovih podataka?",
+        "Kontakt",
+        "Ne",
+        "0"
+    ],
+    [
+        "Obaveštavanje korisnika",
+        "F8BC49",
+        "Da li politika privatnosti na transparentan i razumljiv način pruža informacije o obradi podataka o ličnosti?",
+        "Transparentnost",
+        "1 - najbolje",
+        "9"
+    ],
+    [
+        "Obaveštavanje korisnika",
+        "F8BC49",
+        "Da li politika privatnosti na transparentan i razumljiv način pruža informacije o obradi podataka o ličnosti?",
+        "Transparentnost",
+        "2 - srednje",
+        "5"
+    ],
+    [
+        "Obaveštavanje korisnika",
+        "F8BC49",
+        "Da li politika privatnosti na transparentan i razumljiv način pruža informacije o obradi podataka o ličnosti?",
+        "Transparentnost",
+        "3 - najslabije",
+        "0"
+    ],
+    [
+        "Kolačići i trekeri",
+        "F75F55",
+        "Kako se sajt odnosi prema kolačićima?",
+        "Politike kolačića",
+        "Kolačići nisu aktivni pre izričite saglasnosti, opt-in",
+        "10"
+    ],
+    [
+        "Kolačići i trekeri",
+        "F75F55",
+        "Kako se sajt odnosi prema kolačićima?",
+        "Politike kolačića",
+        "Kolačići su aktivni, ali postoji jednostavan i svima vidljiv način da se isključe, opt-out",
+        "6"
+    ],
+    [
+        "Kolačići i trekeri",
+        "F75F55",
+        "Kako se sajt odnosi prema kolačićima?",
+        "Politike kolačića",
+        "Postoji obaveštenje da sajt prikuplja kolačiće, ali nema jednostavne opt-out opcije",
+        "2"
+    ],
+    [
+        "Kolačići i trekeri",
+        "F75F55",
+        "Kako se sajt odnosi prema kolačićima?",
+        "Politike kolačića",
+        "Ne postoji obaveštenje o kolačićima",
+        "0"
+    ],
+    [
+        "Kolačići i trekeri",
+        "F75F55",
+        "Broj trekera",
+        "Trekeri (sajt)",
+        "0-20",
+        "2"
+    ],
+    [
+        "Kolačići i trekeri",
+        "F75F55",
+        "Broj trekera",
+        "Trekeri (sajt)",
+        "21-50",
+        "1"
+    ],
+    [
+        "Kolačići i trekeri",
+        "F75F55",
+        "Broj trekera",
+        "Trekeri (sajt)",
+        "51+",
+        "0"
+    ],
+    [
+        "Kolačići i trekeri",
+        "F75F55",
+        "Vrste trekera - Marketinški trekeri: po broju",
+        "Marketinški kolačići",
+        "0-10",
+        "3"
+    ],
+    [
+        "Kolačići i trekeri",
+        "F75F55",
+        "Vrste trekera - Marketinški trekeri: po broju",
+        "Marketinški kolačići",
+        "11-20",
+        "2"
+    ],
+    [
+        "Kolačići i trekeri",
+        "F75F55",
+        "Vrste trekera - Marketinški trekeri: po broju",
+        "Marketinški kolačići",
+        "21-40",
+        "1"
+    ],
+    [
+        "Kolačići i trekeri",
+        "F75F55",
+        "Vrste trekera - Marketinški trekeri: po broju",
+        "Marketinški kolačići",
+        "41+",
+        "0"
+    ],
+    [
+        "Kolačići i trekeri",
+        "F75F55",
+        "Vrste trekera - Kolačići trećih strana: po broju",
+        "Kolačići trećih strana",
+        "0-10",
+        "3"
+    ],
+    [
+        "Kolačići i trekeri",
+        "F75F55",
+        "Vrste trekera - Kolačići trećih strana: po broju",
+        "Kolačići trećih strana",
+        "11-20",
+        "2"
+    ],
+    [
+        "Kolačići i trekeri",
+        "F75F55",
+        "Vrste trekera - Kolačići trećih strana: po broju",
+        "Kolačići trećih strana",
+        "21-40",
+        "1"
+    ],
+    [
+        "Kolačići i trekeri",
+        "F75F55",
+        "Vrste trekera - Kolačići trećih strana: po broju",
+        "Kolačići trećih strana",
+        "41+",
+        "0"
+    ],
+    [
+        "Kolačići i trekeri",
+        "F75F55",
+        "Vrste trekera - Fejsbuk piksel",
+        "FB piksel",
+        "Da",
+        "0"
+    ],
+    [
+        "Kolačići i trekeri",
+        "F75F55",
+        "Vrste trekera - Fejsbuk piksel",
+        "FB piksel",
+        "Ne",
+        "1"
+    ],
+    [
+        "Kolačići i trekeri",
+        "F75F55",
+        "Vrste trekera - Gugl analitika",
+        "Gugl analitika",
+        "Da",
+        "0"
+    ],
+    [
+        "Kolačići i trekeri",
+        "F75F55",
+        "Vrste trekera - Gugl analitika",
+        "Gugl analitika",
+        "Ne",
+        "1"
+    ],
+    [
+        "Kolačići i trekeri",
+        "F75F55",
+        "Vrste trekera - Trekeri koji izbegavaju blokere, beleženje sesija, beleženje unosa",
+        "Intruzivni trekeri",
+        "Da",
+        "0"
+    ],
+    [
+        "Mobilne aplikacije",
+        "F0368F",
+        "Vrste trekera - Trekeri koji izbegavaju blokere, beleženje sesija, beleženje unosa",
+        "Intruzivni trekeri",
+        "Ne",
+        "5"
+    ],
+    [
+        "Mobilne aplikacije",
+        "F0368F",
+        "Android aplikacije - Trekeri: po broju",
+        "Broj trekera (android)",
+        "Medij nema aplikaciju ",
+        "3"
+    ],
+    [
+        "Mobilne aplikacije",
+        "F0368F",
+        "Android aplikacije - Trekeri: po broju",
+        "Broj trekera (android)",
+        "0",
+        "3"
+    ],
+    [
+        "Mobilne aplikacije",
+        "F0368F",
+        "Android aplikacije - Trekeri: po broju",
+        "Broj trekera (android)",
+        "1-5",
+        "2"
+    ],
+    [
+        "Mobilne aplikacije",
+        "F0368F",
+        "Android aplikacije - Trekeri: po broju",
+        "Broj trekera (android)",
+        "6-11",
+        "1"
+    ],
+    [
+        "Mobilne aplikacije",
+        "F0368F",
+        "Android aplikacije - Trekeri: po broju",
+        "Broj trekera (android)",
+        "11+ ",
+        "0"
+    ],
+    [
+        "Mobilne aplikacije",
+        "F0368F",
+        "Vrste trekera - Trekeri koji izbegavaju blokere, beleženje sesija, beleženje unosa",
+        "Intruzivni trekeri",
+        "0",
+        "2"
+    ],
+    [
+        "Mobilne aplikacije",
+        "F0368F",
+        "Android aplikacije - Trekeri: po broju",
+        "Broj trekera (android)",
+        "1-3",
+        "1"
+    ],
+    [
+        "Mobilne aplikacije",
+        "F0368F",
+        "Android aplikacije - Trekeri: po broju",
+        "Broj trekera (android)",
+        "4+",
+        "0"
+    ],
+    [
+        "Mobilne aplikacije",
+        "F0368F",
+        "Android aplikacije - Trekeri: po broju",
+        "Broj trekera (android)",
+        "Medij nema aplikaciju",
+        "2"
+    ],
+    [
+        "Mobilne aplikacije",
+        "F0368F",
+        "Android aplikacije - Trekeri: po broju",
+        "Broj trekera (android)",
+        "Podaci se ne prikupljaju ",
+        "5"
+    ],
+    [
+        "Mobilne aplikacije",
+        "F0368F",
+        "Android aplikacije - Trekeri: po broju",
+        "Broj trekera (android)",
+        "Prikupljaju se podaci koji nisu lični",
+        "5"
+    ],
+    [
+        "Mobilne aplikacije",
+        "F0368F",
+        "Vrste trekera - Trekeri koji izbegavaju blokere, beleženje sesija, beleženje unosa",
+        "Intruzivni trekeri",
+        "Prikupljaju se lični podaci kao što su ID, lokacija, kontakt info",
+        "2"
+    ],
+    [
+        "Mobilne aplikacije",
+        "F0368F",
+        "Android aplikacije - Trekeri: po broju",
+        "Broj trekera (android)",
+        "Nema informacija o podacima koji se prikupljaju ",
+        "0"
+    ],
+    [
+        "Mobilne aplikacije",
+        "F0368F",
+        "Android aplikacije - Trekeri: po broju",
+        "Broj trekera (android)",
+        "Medij nema aplikaciju ",
+        "5"
+    ],
+    [
+        "Registracija korisnika",
+        "14a3db",
+        "Da li je registracija obuhvaćena politikom privatnosti?",
+        "Registracija",
+        "Da ",
+        "5"
+    ],
+    [
+        "Registracija korisnika",
+        "14a3db",
+        "Da li je registracija obuhvaćena politikom privatnosti?",
+        "Registracija",
+        "Ne ",
+        "0"
+    ],
+    [
+        "Registracija korisnika",
+        "14a3db",
+        "Da li je registracija obuhvaćena politikom privatnosti?",
+        "Registracija",
+        "Ne postoji registracija",
+        "5"
+    ],
+    [
+        "Registracija korisnika",
+        "14a3db",
+        "Da li se skuplja minimum podataka u odnosu na svrhu registracije?",
+        "Minimum podataka",
+        "Da ",
+        "5"
+    ],
+    [
+        "Registracija korisnika",
+        "14a3db",
+        "Da li se skuplja minimum podataka u odnosu na svrhu registracije?",
+        "Minimum podataka",
+        "Ne ",
+        "0"
+    ],
+    [
+        "Registracija korisnika",
+        "14a3db",
+        "Da li se skuplja minimum podataka u odnosu na svrhu registracije?",
+        "Minimum podataka",
+        "Ne postoji registracija",
+        "5"
+    ],
+    [
+        "Etički kodeks",
+        "7dcee9",
+        "Da li je medij kršio privatnost u izveštavanju? (broj odluka)",
+        "Etički kodeks",
+        "Nema prekršaja",
+        "10"
+    ],
+    [
+        "Etički kodeks",
+        "7dcee9",
+        "Da li je medij kršio privatnost u izveštavanju? (broj odluka)",
+        "Etički kodeks",
+        "1-4",
+        "7"
+    ],
+    [
+        "Etički kodeks",
+        "7dcee9",
+        "Da li je medij kršio privatnost u izveštavanju? (broj odluka)",
+        "Etički kodeks",
+        "5-9",
+        "4"
+    ],
+    [
+        "Etički kodeks",
+        "7dcee9",
+        "Da li je medij kršio privatnost u izveštavanju? (broj odluka)",
+        "Etički kodeks",
+        "10+",
+        "0"
+    ]
+]

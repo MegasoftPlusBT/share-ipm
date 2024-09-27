@@ -1,0 +1,21 @@
+{% macro renderTop5(data) %}
+	<link rel="stylesheet" href="/top5.css">
+    <section id="top5">
+        <header>
+            <h2>TOP 5</h2>
+            <h2>ZBIR POENA</h2>
+        </header>
+        <div id="top5-grid">
+            {% for media in data %}
+                <div class="top5-grid-item">
+                    <div class="top5-rank">{{ media.rank }}</div>
+                    <div class="top5-name" style="width: {{ media.total }}%">
+                        <a href="{{ 'media/' + media.htmlFileName }}">{{ media.name }}</a>
+                    </div>
+                    <div class="top5-total">{{ media.total }}</div>
+                </div>
+            {% endfor %}
+        </div>
+    </section>
+
+{% endmacro %}

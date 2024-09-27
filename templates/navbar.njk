@@ -1,0 +1,141 @@
+<nav class="">
+    <div class="logo"><a href="/index.html">IPM</a></div>
+    <details class="menu-sm">
+        <summary class="hmbrgr">
+            <img src="/images/hmbrgr.png" width="30" height="25">
+        </summary>
+        <ul>
+            {% include "./navigation-items.njk" %}
+        </ul>
+    </details>
+    <ul class="menu-md">
+        <li>
+            <a href="/key-findings.html">VAŽNI NALAZI</a>
+        </li>
+        <li id="media-nav-md">
+                MEDIJI
+        </li>
+        <li>
+            <a href="/recommendations.html">PREPORUKE</a>
+        </li>
+        <li>
+            <a href="/methodology.html">METODOLOGIJA</a>
+        </li>
+    </ul>
+</nav>
+<div id="md-media-dropdown-wrapper" class="">
+    <ul class="md-media-dropdown">
+        <div class="left-column">
+            <li>
+                <a href="/media/013-info.html">
+                    013 info
+                </a>
+            </li>
+        
+            <li>
+                <a href="/media/alo.html">
+                    Alo
+                </a>
+            </li>
+        
+            <li>
+                <a href="/media/autonomija.html">
+                    Autonomija
+                </a>
+            </li>
+        
+            <li>
+                <a href="/media/b92.html">
+                    B92
+                </a>
+            </li>
+        
+            <li>
+                <a href="/media/bizlife.html">
+                    Bizlife
+                </a>
+            </li>
+        
+            <li>
+                <a href="/media/blic.html">
+                    Blic
+                </a>
+            </li>
+        
+            <li>
+                <a href="/media/bor-030.html">
+                    Bor 030
+                </a>
+            </li>
+        
+            <li>
+                <a href="/media/brif.html">
+                    Brif
+                </a>
+            </li>
+        
+            <li>
+                <a href="/media/bujanovačke.html">
+                    Bujanovačke
+                </a>
+            </li>
+        
+            <li>
+                <a href="/media/danas.html">
+                    Danas
+                </a>
+            </li>
+        
+            <li>
+                <a href="/media/direktno.html">
+                    Direktno
+                </a>
+            </li>
+        
+            <li>
+                <a href="/media/dnevnik.html">
+                    Dnevnik
+                </a>
+            </li>
+        
+            <li>
+                <a href="/media/espreso.html">
+                    Espreso
+                </a>
+            </li>
+        
+            <li>
+                <a href="/media/ist-media.html">
+                    IST media
+                </a>
+            </li>
+        
+            <li>
+                <a href="/media/info-vranjske.html">
+                    Info Vranjske
+                </a>
+            </li>
+        
+            <li>
+                <a href="/media/informer.html">
+                    Informer
+                </a>
+            </li>
+        
+            <li>
+                <a href="/media/insajder.html">
+                    Insajder
+                </a>
+            </li>
+        </div>
+        <div class="center-column"></div>
+        <div class="right-column"></div>
+    </ul>
+</div>
+<script>
+    const mediaBtn = document.getElementById('media-nav-md');
+    const mediaDropdownWrapper = document.getElementById('md-media-dropdown-wrapper');
+    mediaBtn.addEventListener('click', () => {
+        mediaDropdownWrapper.classList.toggle("show");
+    });
+</script>

@@ -1,0 +1,55 @@
+{% extends "./base.njk" %}
+
+{% block main %}
+  
+  <h1>METODOLOGIJA</h1>
+  <div class="html-code-wrapper">
+    <p>Procena zaštite privatnosti čitalaca onlajn medija u Srbiji oslanja se na nesporne standarde globalne tehničke i građanske zajednice čija se primena može meriti, zatim na izričite obaveze utvrđene Zakonom o zaštiti podataka o ličnosti i, konačno, na etička načela profesije. Indikatori su grupisani u šest kategorija: osnovni tehnički parametri, obaveštavanje korisnika, kolačići i trekeri, mobilne platforme, registracija korisnika i novinarski kodeks.</p>
+    <p>Za analizu je odabrano 50 medija koji su u prvoj polovini 2021. godine poslovali na teritoriji Srbije, odnosno plasirali svoje sadržaje publici iz Srbije. Reč je isključivo o informativnim, uredničkim sajtovima posvećenim vestima i aktuelnostima, u formi neposrednih ili periodičnih objava. Od ukupnog broja, 20 medijskih sajtova ostvaruje najveću posetu u Srbiji prema <a href="https://www.alexa.com/topsites/countries/RS">analitici</a> globalnog saobraćaja na internetu, dok je ostalih 30 od značaja za geografsko područje koje pokrivaju, uzrasnu grupu kojoj su namenjeni, ili javni interes koji ostvaruju.</p>
+    <p>Raspon indeksa je od 0 do 100, gde je 100 vrednost koja označava najbolji rezultat.</p>
+  </div>
+
+  {% for row in perCategoryData %}
+    <div class="per-category-wrapper" id="{{ row.handle }}">
+      
+      <h3 class="per-category-headline">
+        <div class="square-with-points" style="background-color:{{ row.color }}">
+          <span class="category-max-points">{{ row.maxPoints }}</span>
+          <div>bodova</div>
+        </div>
+        {{ row.category }}
+      </h3>
+      
+      <div class="html-code-wrapper">
+        <p><strong>{{ row.category }}</strong> ({{ row.maxPoints }} poena)
+        {{ row.about|safe }}
+      </div>
+
+      
+      <details>
+        <summary style="list-style: revert;">
+          <h4>Opis i vrednovanje indikatora</h4>
+        </summary>
+        <ol class="per-category-indicators">
+          {% for indicator in row.indicators %}
+            <li>
+              <p class="per-category-indicator-name">{{ indicator.title }}</p>
+              <ul>
+                {% for response in indicator.responses %}
+                  <li>
+                    {{ response.response }}
+                    {% if response.value == 1 %}
+                      ({{ response.value }} poen)
+                    {% else %}
+                      ({{ response.value }} poena)
+                    {% endif %}
+                  </li>
+                {% endfor %}
+              </ul>
+            </li>
+          {% endfor %}
+        </ol>
+      </details>
+    </div>
+  {% endfor %}
+{% endblock %}

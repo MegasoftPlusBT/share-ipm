@@ -1,0 +1,585 @@
+[
+    {
+        "title": "Osnovni tehnički parametri",
+        "color": "ffe600",
+        "indicators": [
+            {
+                "responses": [
+                    {
+                        "response": "Da",
+                        "value": 9
+                    },
+                    {
+                        "response": "Ne",
+                        "value": 0
+                    }
+                ],
+                "title": "Da li sajt ima podešen HTTPS protokol?",
+                "titleShort": "Sigurni protokol"
+            },
+            {
+                "responses": [
+                    {
+                        "response": "Srbija i adekvatne države po pravu RS",
+                        "value": 2
+                    },
+                    {
+                        "response": "SAD",
+                        "value": 1
+                    },
+                    {
+                        "response": "SAD ili Rusija",
+                        "value": 1
+                    },
+                    {
+                        "response": "Treća država",
+                        "value": 0
+                    },
+                    {
+                        "response": "Maskirana lokacija, bez obaveštenja u politikama privatnosti",
+                        "value": 0
+                    }
+                ],
+                "title": "U kojoj jurisdikciji se nalazi hosting server?",
+                "titleShort": "Hosting"
+            },
+            {
+                "responses": [
+                    {
+                        "response": "Ne",
+                        "value": 2
+                    },
+                    {
+                        "response": "SAD",
+                        "value": 1
+                    },
+                    {
+                        "response": "SAD ili Rusija",
+                        "value": 1
+                    },
+                    {
+                        "response": "Da",
+                        "value": 0
+                    }
+                    
+                ],
+                "title": "Da li podaci prolaze kroz države sa neadekvatnim standardima?",
+                "titleShort": "Put podataka"
+            },
+            {
+                "responses": [
+                    {
+                        "response": "Ne ili Da, u adekvatnim državama",
+                        "value": 2
+                    },
+                    {
+                        "response": "Da, u SAD",
+                        "value": 1
+                    },
+                    {
+                        "response": "Da, u SAD ili Rusiji",
+                        "value": 1
+                    },
+                    {
+                        "response": "Da, u neadekvatnim državama",
+                        "value": 0
+                    }
+                ],
+                "title": "Da li se koriste usluge posredovanja sadržaja između hostinga i korisnika i gde se servis nalazi?",
+                "titleShort": "Posrednički servisi"
+            }
+        ]
+    },
+    {
+        "title": "Obaveštavanje korisnika",
+        "color": "fbb82e",
+        "indicators": [
+            {
+                "responses": [
+                    {
+                        "response": "Da",
+                        "value": 3
+                    },
+                    {
+                        "response": "Ne",
+                        "value": 0
+                    }
+                ],
+                "title": "Da li sajt poseduje politiku privatnosti (izjavu, obaveštenje) i da li je dokument objavljen?",
+                "titleShort": "Politike privatnosti"
+            },
+            {
+                "responses": [
+                    {
+                        "response": "Da",
+                        "value": 1
+                    },
+                    {
+                        "response": "Ne",
+                        "value": 0
+                    }
+                ],
+                "title": "Da li je naveden rukovalac podacima?",
+                "titleShort": "Rukovalac"
+            },
+            {
+                "responses": [
+                    {
+                        "response": "Da",
+                        "value": 2
+                    },
+                    {
+                        "response": "Delimično",
+                        "value": 1
+                    },
+                    {
+                        "response": "Ne",
+                        "value": 0
+                    }
+                ],
+                "title": "Da li je konkretno navedeno koji se sve podaci o ličnosti prikupljaju?",
+                "titleShort": "Vrste podataka"
+            },
+            {
+                "responses": [
+                    {
+                        "response": "Da",
+                        "value": 2
+                    },
+                    {
+                        "response": "Delimično",
+                        "value": 1
+                    },
+                    {
+                        "response": "Ne",
+                        "value": 0
+                    }
+                ],
+                "title": "Da li je navedena svrha obrade podataka?",
+                "titleShort": "Svrha"
+            },
+            {
+                "responses": [
+                    {
+                        "response": "Da",
+                        "value": 2
+                    },
+                    {
+                        "response": "Delimično",
+                        "value": 1
+                    },
+                    {
+                        "response": "Ne",
+                        "value": 0
+                    }
+                ],
+                "title": "Da li je naveden pravni osnov obrade podataka?",
+                "titleShort": "Pravni osnov"
+            },
+            {
+                "responses": [
+                    {
+                        "response": "Da",
+                        "value": 2
+                    },
+                    {
+                        "response": "Delimično",
+                        "value": 1
+                    },
+                    {
+                        "response": "Ne",
+                        "value": 0
+                    }
+                ],
+                "title": "Da li je naveden rok čuvanja podataka?",
+                "titleShort": "Rok obrade"
+            },
+            {
+                "responses": [
+                    {
+                        "response": "Da",
+                        "value": 2
+                    },
+                    {
+                        "response": "Delimično",
+                        "value": 1
+                    },
+                    {
+                        "response": "Ne",
+                        "value": 0
+                    }
+                ],
+                "title": "Da li je navedeno da li se podaci dele, ustupaju, prodaju?",
+                "titleShort": "Deljenje podataka"
+            },
+            {
+                "responses": [
+                    {
+                        "response": "Da",
+                        "value": 2
+                    },
+                    {
+                        "response": "Delimično",
+                        "value": 1
+                    },
+                    {
+                        "response": "Ne",
+                        "value": 0
+                    }
+                ],
+                "title": "Ako se podaci dele, ustupaju, prodaju, da li je navedeno kome?",
+                "titleShort": "Treća strana"
+            },
+            {
+                "responses": [
+                    {
+                        "response": "Da",
+                        "value": 2
+                    },
+                    {
+                        "response": "Delimično",
+                        "value": 1
+                    },
+                    {
+                        "response": "Ne",
+                        "value": 0
+                    }
+                ],
+                "title": "Da li je navedeno da li se podaci iznose iz Republike Srbije?",
+                "titleShort": "Izvoz podataka"
+            },
+            {
+                "responses": [
+                    {
+                        "response": "Da",
+                        "value": 2
+                    },
+                    {
+                        "response": "Delimično",
+                        "value": 1
+                    },
+                    {
+                        "response": "Ne",
+                        "value": 0
+                    }
+                ],
+                "title": "Da li politika privatnosti informiše korisnike o pravima koja imaju u vezi sa svojim podacima o ličnosti (pristup, brisanje, izmena, dopuna, itd)?",
+                "titleShort": "Prava korisnika"
+            },
+            {
+                "responses": [
+                    {
+                        "response": "Da",
+                        "value": 1
+                    },
+                    {
+                        "response": "Ne",
+                        "value": 0
+                    }
+                ],
+                "title": "Da li politika privatnosti sadrži kontakt na koji se građani mogu obratiti povodom pitanja obrade njihovih podataka?",
+                "titleShort": "Kontakt"
+            },
+            {
+                "responses": [
+                    {
+                        "response": "1 - najbolje",
+                        "value": 9
+                    },
+                    {
+                        "response": "2 - srednje",
+                        "value": 4
+                    },
+                    {
+                        "response": "3 - najslabije",
+                        "value": 0
+                    }
+                ],
+                "title": "Da li politika privatnosti na transparentan i razumljiv način pruža informacije o obradi podataka o ličnosti?",
+                "titleShort": "Transparentnost"
+            }
+        ]
+    },
+    {
+        "title": "Kolačići i trekeri",
+        "color": "fa103a",
+        "indicators": [
+            {
+                "responses": [
+                    {
+                        "response": "Kolačići nisu aktivni pre izričite saglasnosti, opt-in",
+                        "value": 10
+                    },
+                    {
+                        "response": "Kolačići su aktivni, ali postoji jednostavan i svima vidljiv način da se isključe, opt-out",
+                        "value": 6
+                    },
+                    {
+                        "response": "Postoji obaveštenje da sajt prikuplja kolačiće, ali nema jednostavne opt-out opcije",
+                        "value": 2
+                    },
+                    {
+                        "response": "Ne postoji obaveštenje o kolačićima",
+                        "value": 0
+                    }
+                ],
+                "title": "Kako se sajt odnosi prema kolačićima?",
+                "titleShort": "Politike kolačića"
+            },
+            {
+                "responses": [
+                    {
+                        "response": "0-20",
+                        "value": 2
+                    },
+                    {
+                        "response": "21-50",
+                        "value": 1
+                    },
+                    {
+                        "response": "51+",
+                        "value": 0
+                    }
+                ],
+                "title": "Broj trekera",
+                "titleShort": "Trekeri na sajtu"
+            },
+            {
+                "responses": [
+                    {
+                        "response": "0-10",
+                        "value": 3
+                    },
+                    {
+                        "response": "11-20",
+                        "value": 2
+                    },
+                    {
+                        "response": "21-40",
+                        "value": 1
+                    },
+                    {
+                        "response": "41+",
+                        "value": 0
+                    }
+                ],
+                "title": "Vrste trekera - Marketinški trekeri: po broju",
+                "titleShort": "Marketinški kolačići"
+            },
+            {
+                "responses": [
+                    {
+                        "response": "0-10",
+                        "value": 3
+                    },
+                    {
+                        "response": "11-20",
+                        "value": 2
+                    },
+                    {
+                        "response": "21-40",
+                        "value": 1
+                    },
+                    {
+                        "response": "41+",
+                        "value": 0
+                    }
+                ],
+                "title": "Vrste trekera - Kolačići trećih strana: po broju",
+                "titleShort": "Kolačići trećih strana"
+            },
+            {
+                "responses": [
+                    {
+                        "response": "Da",
+                        "value": 0
+                    },
+                    {
+                        "response": "Ne",
+                        "value": 1
+                    }
+                ],
+                "title": "Vrste trekera - Fejsbuk piksel",
+                "titleShort": "Fejsbuk piksel"
+            },
+            {
+                "responses": [
+                    {
+                        "response": "Da",
+                        "value": 0
+                    },
+                    {
+                        "response": "Ne",
+                        "value": 1
+                    }
+                ],
+                "title": "Vrste trekera - Gugl analitika",
+                "titleShort": "Gugl analitika"
+            },
+            {
+                "responses": [
+                    {
+                        "response": "Da",
+                        "value": 0
+                    },
+                    {
+                        "response": "Ne",
+                        "value": 5
+                    }
+                ],
+                "title": "Vrste trekera - Trekeri koji izbegavaju blokere, beleženje sesija, beleženje unosa",
+                "titleShort": "Intruzivni trekeri"
+            }
+        ]
+    },
+    {
+        "title": "Mobilne aplikacije",
+        "color": "f63db4",
+        "indicators": [
+            {
+                "responses": [
+                    {
+                        "response": "Medij nema aplikaciju ",
+                        "value": 3
+                    },
+                    {
+                        "response": "0",
+                        "value": 3
+                    },
+                    {
+                        "response": "1-5",
+                        "value": 2
+                    },
+                    {
+                        "response": "6-10",
+                        "value": 1
+                    },
+                    {
+                        "response": "11+ ",
+                        "value": 0
+                    }
+                ],
+                "title": "Android aplikacije - Trekeri: po broju",
+                "titleShort": "Trekeri na Android aplikaciji"
+            },
+            {
+                "responses": [
+                    {
+                        "response": "Medij nema aplikaciju",
+                        "value": 2
+                    },
+                    {
+                        "response": "0",
+                        "value": 2
+                    },
+                    {
+                        "response": "1-3",
+                        "value": 1
+                    },
+                    {
+                        "response": "4+",
+                        "value": 0
+                    }
+                ],
+                "title": "Android aplikacije - Opasne dozvole: po broju",
+                "titleShort": "Intruzivne dozvole na Android aplikaciji"
+            },
+            {
+                "responses": [
+                    {
+                        "response": "Medij nema aplikaciju ",
+                        "value": 5
+                    },
+                    {
+                        "response": "Podaci se ne prikupljaju ",
+                        "value": 5
+                    },
+                    {
+                        "response": "Prikupljaju se podaci koji nisu lični",
+                        "value": 5
+                    },
+                    {
+                        "response": "Prikupljaju se lični podaci kao što su ID, lokacija, kontakt info",
+                        "value": 2
+                    },
+                    {
+                        "response": "Nema informacija o podacima koji se prikupljaju ",
+                        "value": 0
+                    }
+                ],
+                "title": "iOS podaci",
+                "titleShort": "Podaci u iOS aplikaciji"
+            }
+        ]
+    },
+    {
+        "title": "Registracija korisnika",
+        "color": "14a3db",
+        "indicators": [
+            {
+                "responses": [
+                    {
+                        "response": "Ne postoji registracija",
+                        "value": 5
+                    },
+                    {
+                        "response": "Da ",
+                        "value": 5
+                    },
+                    {
+                        "response": "Ne ",
+                        "value": 0
+                    }
+                ],
+                "title": "Da li je registracija obuhvaćena politikom privatnosti?",
+                "titleShort": "Registracija"
+            },
+            {
+                "responses": [
+                    {
+                        "response": "Ne postoji registracija",
+                        "value": 5
+                    },
+                    {
+                        "response": "Da ",
+                        "value": 5
+                    },
+                    {
+                        "response": "Ne ",
+                        "value": 0
+                    }
+                ],
+                "title": "Da li se skuplja minimum podataka u odnosu na svrhu registracije?",
+                "titleShort": "Minimizacija podataka"
+            }
+        ]
+    },
+    {
+        "title": "Etički kodeks",
+        "color": "7dcee9",
+        "indicators": [
+            {
+                "responses": [
+                    {
+                        "response": "Nema prekršaja",
+                        "value": 10
+                    },
+                    {
+                        "response": "1-4",
+                        "value": 7
+                    },
+                    {
+                        "response": "5-9",
+                        "value": 4
+                    },
+                    {
+                        "response": "10+",
+                        "value": 0
+                    }
+                ],
+                "title": "Da li je medij kršio privatnost u izveštavanju? (broj odluka)",
+                "titleShort": "Etički kodeks"
+            }
+        ]
+    }
+]

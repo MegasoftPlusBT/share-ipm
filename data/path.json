@@ -1,0 +1,7704 @@
+[
+  {
+    "name": "Danas",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 9,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 1,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 0,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 82
+  },
+  {
+    "name": "Mozzart sport",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 9,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 1,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 0,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 81
+  },
+  {
+    "name": "BIZLife",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 9,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 3,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 0,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 79
+  },
+  {
+    "name": "B92",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 9,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 1,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 1,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 0,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 0,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 74
+  },
+  {
+    "name": "Radio 021",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 3,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 74
+  },
+  {
+    "name": "Niške vesti",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 4,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 1,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 73
+  },
+  {
+    "name": "Nova",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 0,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 4,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 10,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 0,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 71
+  },
+  {
+    "name": "N1",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 0,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 4,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 10,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 1,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 0,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 7,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 70
+  },
+  {
+    "name": "Dnevnik",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 3,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 70
+  },
+  {
+    "name": "Telegraf",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 4,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 1,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 1,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 7,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 69
+  },
+  {
+    "name": "Noizz",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 0,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 1,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 69
+  },
+  {
+    "name": "RTV Pančevo",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 3,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 68
+  },
+  {
+    "name": "Magločistač",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 3,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 68
+  },
+  {
+    "name": "Autonomija",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 6,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 3,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 0,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 67
+  },
+  {
+    "name": "Užice media",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 3,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 67
+  },
+  {
+    "name": "Info Vranjske",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 3,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 66
+  },
+  {
+    "name": "Večernje novosti",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 4,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 7,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 65
+  },
+  {
+    "name": "Istočne vesti",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 6,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 3,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 65
+  },
+  {
+    "name": "ZA media",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 3,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 64
+  },
+  {
+    "name": "Objektiv",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 0,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 4,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 1,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 63
+  },
+  {
+    "name": "013 info",
+    "points": [
+      {
+        "value": 0,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 0,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 3,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 62
+  },
+  {
+    "name": "Srbija danas",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 1,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 62
+  },
+  {
+    "name": "Ozon press",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 3,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 7,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 62
+  },
+  {
+    "name": "NG portal",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 0,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 3,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 61
+  },
+  {
+    "name": "Espreso",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 1,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 60
+  },
+  {
+    "name": "Informer",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 1,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 0,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 60
+  },
+  {
+    "name": "Jugpress",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 3,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 60
+  },
+  {
+    "name": "Bujanovačke",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 3,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 60
+  },
+  {
+    "name": "IST media",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 0,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 0,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 60
+  },
+  {
+    "name": "RTS",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 1,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 1,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 59
+  },
+  {
+    "name": "TV Zona plus",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 3,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 59
+  },
+  {
+    "name": "Kruševac press",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 3,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 0,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 59
+  },
+  {
+    "name": "Kragujevac danas",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 3,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 59
+  },
+  {
+    "name": "Bor 030",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 0,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 3,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 59
+  },
+  {
+    "name": "Oblakoder",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 59
+  },
+  {
+    "name": "Insajder",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 0,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 4,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 1,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 1,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 0,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 59
+  },
+  {
+    "name": "Moj Bečej",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 0,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 3,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 58
+  },
+  {
+    "name": "Direktno",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 4,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 1,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 0,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 56
+  },
+  {
+    "name": "Brif",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 0,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 3,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 56
+  },
+  {
+    "name": "Kolubarske",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 0,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 3,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 0,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 56
+  },
+  {
+    "name": "Blic",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 0,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 1,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 0,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 4,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 55
+  },
+  {
+    "name": "Zoomer",
+    "points": [
+      {
+        "value": 0,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 6,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 3,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 55
+  },
+  {
+    "name": "Južne vesti",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 0,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 1,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 0,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 53
+  },
+  {
+    "name": "Pištaljka",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 0,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 3,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 0,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 50
+  },
+  {
+    "name": "Mondo",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 0,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 1,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 0,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 49
+  },
+  {
+    "name": "Pirotske vesti",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 3,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 0,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 53
+  },
+  {
+    "name": "Kurir",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 1,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 0,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 0,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 46
+  },
+  {
+    "name": "Pressek",
+    "points": [
+      {
+        "value": 0,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 3,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 0,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 10,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 46
+  },
+  {
+    "name": "Alo",
+    "points": [
+      {
+        "value": 9,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 2,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 1,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 2,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 0,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 43
+  },
+  {
+    "name": "Politika",
+    "points": [
+      {
+        "value": 0,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 0,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 1,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 3,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 3,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 2,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 1,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 5,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 2,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 1,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 5,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 0,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 5,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 4,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 37
+  },
+  {
+    "name": "Sputnik",
+    "points": [
+      {
+        "value": 0,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Sigurni protokol"
+      },
+      {
+        "value": 0,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Hosting"
+      },
+      {
+        "value": 0,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Put podataka"
+      },
+      {
+        "value": 0,
+        "category": "Osnovni tehnički parametri",
+        "indicator": "Posrednički servisi"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Politike privatnosti"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rukovalac"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Vrste podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Svrha"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Pravni osnov"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Rok obrade"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Deljenje podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Treća strana"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Izvoz podataka"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Prava korisnika"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Kontakt"
+      },
+      {
+        "value": 0,
+        "category": "Obaveštavanje korisnika",
+        "indicator": "Transparentnost"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Politike kolačića"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Trekeri na sajtu"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Marketinški kolačići"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Kolačići trećih strana"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Fejsbuk piksel"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Gugl analitika"
+      },
+      {
+        "value": 0,
+        "category": "Kolačići i trekeri",
+        "indicator": "Intruzivni trekeri"
+      },
+      {
+        "value": 0,
+        "category": "Mobilne aplikacije",
+        "indicator": "Trekeri na Android aplikaciji"
+      },
+      {
+        "value": 0,
+        "category": "Mobilne aplikacije",
+        "indicator": "Intruzivne dozvole na Android aplikaciji"
+      },
+      {
+        "value": 0,
+        "category": "Mobilne aplikacije",
+        "indicator": "Podaci u iOS aplikaciji"
+      },
+      {
+        "value": 0,
+        "category": "Registracija korisnika",
+        "indicator": "Registracija"
+      },
+      {
+        "value": 0,
+        "category": "Registracija korisnika",
+        "indicator": "Minimizacija podataka"
+      },
+      {
+        "value": 0,
+        "category": "Etički kodeks",
+        "indicator": "Etički kodeks"
+      }
+    ],
+    "total": 0
+  }
+
+]

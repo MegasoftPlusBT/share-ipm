@@ -1,0 +1,15 @@
+/* start fonts */
+@font-face {
+    font-family: "Foundry";
+    src: url("static/fonts/FoundryNewRegularCE.ttf") format("truetype"),
+        url("static/fonts/FoundryNEWMediumWE-Bold.ttf") format("truetype");
+}
+@font-face {
+    font-family: "FoundryBold";
+    src: url("static/fonts/FoundryNEWMediumWE-Bold.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Roboto";
+    src: url("static/fonts/Roboto-Regular.ttf") format("truetype");
+}
+/* end fonts */ 

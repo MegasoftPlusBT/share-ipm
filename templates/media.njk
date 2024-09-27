@@ -1,0 +1,81 @@
+{% extends "./base.njk" %}
+
+{% block main %}
+	<link rel="stylesheet" href="/media.css">
+  <header class="media-header">
+    <div class="media-info">
+      <h1>{{ name }}</h1>
+      <p class="media-url"><a href="//{{ url }}">{{ url }}</a></p>
+      <p>{{ about }}</p>
+    </div>
+    <div class="media-donut">
+      <div class="donut-chart">
+        {% for row in perCategory %}
+          <div class="portion-block"
+              style="transform: rotate({{ row.angleStart }}deg);">
+            <div class="circle" title="{{ row.name}}: {{ row.points }}/{{ row.maxPoints }}"
+                style="background-color: {{ row.color }}; transform: rotate({{ row.angleEnd - row.angleStart }}deg);">
+            </div>
+          </div>
+        {% endfor %}
+        <div class="center">
+          <span class="media-total-points">{{ total }}</span>
+          <span class="media-max-points">100</span>
+        </div>        
+      </div>
+    </div>
+  </header>
+
+  <div class="media-category-breakdown">
+    {% for row in perCategory %}
+      <div class="per-category-wrapper" id="{{ row.handle }}">
+        <div class="media-square"
+             style="background-color:{{ row.color }}">
+          <span class="media-category-points">{{ row.points }}</span>
+          <span class="max-category-points">{{ row.maxPoints }}</span>
+        </div>
+        <div style="background-color:{{ row.color }}"
+             class="media-category-name">
+             <div>{{ row.name }}</div>
+        </div>
+        <details  style="background-color:{{ row.color }}"
+                  class="breakdown-toggle-wrapper">
+          <summary>
+            <div class="breakdown-toggle">
+              <div class="breakdown-expand">+</div>
+              <div class="breakdown-collapse">-</div>
+            </div>
+          </summary>
+        </details>
+        <div class="media-category-indicators">
+          {% for indicator in row.indicators %}
+            <div class="indicator-wrapper">
+              <label class="indicator-label">INDIKATOR:</label>
+              <span class="indicator-text">{{ indicator.name }}</span>
+              <label class="response-label">ODGOVOR:</label>
+              <span class="indicator-response">
+                <span class="response-text">{{ indicator.response }}</span>
+                {% if indicator.isMaxResponse %}
+                  <span style="background-color:{{ row.color }}"
+                        class="response-points">{{ indicator.points}}</span>
+                {% endif %}
+                {% if indicator.isMinResponse %}
+                  <span style="background-color:black; color: white;"
+                        class="response-points">{{ indicator.points}}</span>
+                {% endif %}
+                {% if not indicator.isMinResponse and not indicator.isMaxResponse %}
+                  <span style="border: 1px solid black;"
+                        class="response-points">{{ indicator.points}}</span>
+                {% endif %}
+              </span>
+            </div>
+          {% endfor %}
+        </div>
+        
+      </div>
+    {% endfor %}
+  </div>
+  <h2>PREGLED</h2>
+  <p>{{ highlights}}</p>
+  
+{% endblock %}

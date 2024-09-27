@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="sr">
+  <head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ title }} - Indeks privatnosti u medijima</title>
+		<link rel="stylesheet" href="/style.css">
+    <link rel="icon" type="image/svg+xml" href="/images/favicon.svg">
+			  
+		<meta property="og:title" content="{{ title }}">
+		<meta property="og:description" content="Indeks privatnosti u medijima">
+    <meta property="og:type" content="website" />
+		<meta property="og:image" content="https://indeks.onlajnmediji.rs/images/card-facebook.png">
+		<meta property="og:url" content="https://indeks.onlajnmediji.rs">
+		<meta property="twitter:image" content="https://indeks.onlajnmediji.rs/images/card-twitter.png">
+		<meta property="twitter:url" content="https://indeks.onlajnmediji.rs">
+		<meta name="twitter:card" content="summary_large_image">
+    
+		<script>
+      window.addEventListener("DOMContentLoaded", () => {
+        const links = Array.from(document.querySelectorAll(".html-code-wrapper a"));
+        links.filter(a => !a.classList.contains("share-red"))
+          .forEach(a => {
+            a.classList.add("share-red");
+            a.target = "_blank";
+          });
+        Array.from(document.querySelectorAll('nav :not(.logo) a'))
+          .filter(a => a.href == location.toString())
+          .forEach(a => {
+            a.style.textDecorationLine = "underline";
+          });
+      });
+    </script>
+  </head>
+  <body>
+    {% include "./navbar.njk" %}
+    <div class="main-wrapper">
+      {% include './categories.njk' %}
+      <main>
+        {% block main %}
+        {% endblock %}
+      </main>
+    </div>
+    {% include "./footer.njk" %}
+  </body>
+</html>

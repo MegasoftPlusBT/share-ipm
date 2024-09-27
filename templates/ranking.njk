@@ -1,0 +1,145 @@
+{% macro renderRanking(data) %}
+    
+    <section id="ranking">
+	    <link rel="stylesheet" href="/ranking.css">
+        <header>
+            <h2>TABELA</h2>
+            <h2 class="share-big-link" style="margin: 27.4px 0">
+                <a class="share-red down-arrow-after" target="_blank"
+                   href="/static/docs/IPM_sirovi_podaci_2021.csv">
+                    SIROVI PODACI
+                </a>
+            </h2>
+        </header>
+        <div class="switch-wrapper">
+            <label class="switch">
+                <input id="points-breakdown-toggle" type="checkbox"
+                       checked autocomplete="off">
+                <span class="slider round"></span>
+                <span class="switch-label label-left">UKUPNO</span>
+                <span class="switch-label label-right">PO KATEGORIJAMA</span>
+            </label>
+            <script>
+                const pointsBreakdownToggle = document.getElementById("points-breakdown-toggle");
+                pointsBreakdownToggle.addEventListener("change", event => {
+                    const categoryColorElements =
+                        Array.from(document.getElementsByClassName("ranking-total-per-category"));
+                    categoryColorElements.forEach(elem => {
+                        elem.style.display = event.target.checked ? "none" : "block";
+                    });
+                });
+            </script>
+        </div>
+        <div id="ranking-grid" data-sort-by="rank"
+             data-sort-type="number" data-sort-order="asc">
+            <div id="ranking-grid-table">
+                <div class="ranking-grid-table-header ranking-grid-table-row">
+                    <div class="ranking-name-sort ranking-name">
+                        MEDIJ&nbsp;&nbsp;&nbsp;
+                        <img id="sort-name" src="/images/up-down.png" height="15">
+                    </div>
+                    <div class="ranking-rank-sort ranking-rank">
+                        <img id="sort-rank" src="/images/up-down.png" height="15">
+                    </div>
+                </div>
+                {% for media in data %}
+                    <div class="ranking-grid-table-row"
+                        data-name="{{ media.name }}" data-rank="{{ media.rank }}">
+                        <div class="ranking-name">
+                            <a href="{{ 'media/' + media.htmlFileName }}">{{ media.name }}</a>
+                        </div>
+                        <div class="ranking-rank">{{ media.rank }}</div>
+                    </div>
+                {% endfor %}
+            </div>
+            <div id="ranking-grid-bar-chart">
+                <div class="ranking-grid-bar-chart-header ranking-grid-bar">
+                </div>
+                {% for media in data %}
+                    <div class="ranking-grid-bar ranking-grid-bar-item"
+                         data-name="{{ media.name }}" data-rank="{{ media.rank }}">
+                        <div class="ranking-total-wrapper-qtr1"></div>
+                        <div class="ranking-total-wrapper-qtr2"></div>
+                        <div class="ranking-total-wrapper-qtr3"></div>
+                        <div class="ranking-total-wrapper-qtr4"></div>
+                        <div class="ranking-total total{{media.total}}"
+                             style="width: {{ media.total }}%;grid-template-columns:{% for row in media.perCategory %} {{row.points}}fr{% endfor %};">
+                             
+                            {% for row in media.perCategory %}
+                                <div class="ranking-total-per-category" title="{{ row.name}}: {{ row.points }}/{{ row.maxPoints }}"
+                                     style="background-color: {{row.color}};height: 100%;">
+                                </div>
+                            {% endfor %}
+                        </div>
+                        <style>
+                            .total{{media.total}}::after {
+                                content: "{{ media.total }}";
+                            }
+                        </style>
+                    </div>
+                {% endfor %}
+            </div>
+            <script>
+                const rankingGrid = document.getElementById("ranking-grid");
+
+                function sorter(attr, type = "string", order = "asc") {
+                    const orderCoef = order === "desc" ? -1 : 1;
+                    return (a,b) => {
+                        // what can't be sorted (like headers) is put in front
+                        if(a.dataset[attr] == null) return -1;
+                        if(b.dataset[attr] == null) return 1;
+                        
+                        const aVal = type === "number" ? +a.dataset[attr] : a.dataset[attr];
+                        const bVal = type === "number" ? +b.dataset[attr] : b.dataset[attr];
+                        // actual sorting below
+                        if(aVal < bVal) return -1 * orderCoef;
+                        if(aVal > bVal) return 1 * orderCoef;
+                        return 0;
+                    }
+                }
+                function sortGrid () {
+                    const sortBy = rankingGrid.dataset.sortBy;
+                    const sortType = rankingGrid.dataset.sortType;
+                    const sortOrder = rankingGrid.dataset.sortOrder;
+                    const sorterFn = sorter(sortBy, sortType, sortOrder);
+                    
+                    const table = document.getElementById("ranking-grid-table");
+                    const tableRows = Array.from(document.getElementsByClassName("ranking-grid-table-row"));
+                    const sortedTableRows = tableRows.sort(sorterFn);
+                    table.innerHTML = "";
+                    sortedTableRows.forEach(row => table.appendChild(row));
+
+                    const barChart = document.getElementById("ranking-grid-bar-chart");
+                    const bars = Array.from(document.getElementsByClassName("ranking-grid-bar"));
+                    const sortedBars = bars.sort(sorterFn);
+                    barChart.innerHTML = "";
+                    sortedBars.forEach(row => barChart.appendChild(row));
+                }
+
+                document.getElementById("sort-name").addEventListener("click", () => {
+                    if (rankingGrid.dataset.sortBy === "name") {
+                        rankingGrid.dataset.sortOrder =
+                            rankingGrid.dataset.sortOrder === "asc" ? "desc" : "asc";
+                    } else {
+                        rankingGrid.dataset.sortBy = "name";
+                        rankingGrid.dataset.sortType = "string";
+                        rankingGrid.dataset.sortOrder = "asc";
+                    }
+                    sortGrid();
+                });
+                document.getElementById("sort-rank").addEventListener("click", () => {
+                    if (rankingGrid.dataset.sortBy === "rank") {
+                        rankingGrid.dataset.sortOrder =
+                            rankingGrid.dataset.sortOrder === "asc" ? "desc" : "asc";
+                    } else {
+                        rankingGrid.dataset.sortBy = "rank";
+                        rankingGrid.dataset.sortType = "number";
+                        rankingGrid.dataset.sortOrder = "asc";
+                    }
+                    sortGrid();
+                });
+            </script>
+        </div>
+    </section>
+
+{% endmacro %}

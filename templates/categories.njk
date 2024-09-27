@@ -1,0 +1,10 @@
+
+    <aside id="category-links">
+        {% for record in perCategoryData %}
+            <a href="#{{ record.handle}}" class="">
+               <div class="square"
+                    style="background-color: {{ record.color}}"></div>
+               <span class="category-name">{{ record.category }}</span>
+            </a>
+        {% endfor %}
+    </aside>

@@ -1,0 +1,38 @@
+/* start footer */
+footer {
+    background-color: #1b1a18;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 40px;
+}
+footer > section.left {
+    max-width: 388px;
+}
+footer > section.right {
+    max-width: 699px;
+}
+footer p {
+    font-family: Roboto;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+}
+footer h4 {
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 150%;
+}
+footer .support-logo {
+    padding-top: 5px;
+    margin-right:18px;
+}
+@media (min-width: 1220px) {
+    footer {
+        padding-left: 120px;
+    }
+}
+
+/* end footer */

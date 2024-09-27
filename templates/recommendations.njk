@@ -1,0 +1,25 @@
+{% extends "./base.njk" %}
+
+{% block main %}
+  <h1>{{ title }}</h1>
+ 
+  <h2 class="share-big-link" style="margin-left: 40px">
+      <a class="share-red down-arrow-after" target="_blank"
+         href="/static/docs/preporuke.pdf">
+        PREUZMITE PDF
+      </a>
+  </h2>
+
+  {% for row in perCategoryData %}
+    <div class="per-category-wrapper" id="{{ row.handle }}">
+      
+      <h3 class="per-category-headline">
+        <div class="square" style="background-color:{{ row.color }}"></div>
+        {{ row.category }}
+      </h3>
+      <div class="html-code-wrapper">
+        {{ row.html|safe }}
+      </div>
+    </div>
+  {% endfor %}
+{% endblock %}

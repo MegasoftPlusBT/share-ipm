@@ -1,0 +1,27 @@
+{% for navItem in navigationItems %}
+    {% if navItem.type == "link" %}
+        <li>
+            <a href="{{ navItem.href }}">{{ navItem.text }}</a>
+        </li>
+    {% else %}
+        <li>
+            <details class="media-nav">
+                <summary>
+                    {{ navItem.text }}
+                    <div class="close-media-dropdown">+</div>
+                </summary>
+                <div class="media-dropdown-wrapper">
+                    <ul class="media-dropdown">
+                        {% for mediaLink in navItem.items %}
+                            <li>
+                                <a href="{{ mediaLink.href }}">
+                                    {{ mediaLink.text }}
+                                </a>
+                            </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </details>
+        </li>
+    {% endif %}
+{% endfor %}

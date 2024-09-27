@@ -1,0 +1,16 @@
+{% extends "./base.njk" %}
+{% from './top5.njk' import renderTop5 %}
+{% from './ranking.njk' import renderRanking %}
+
+{% block main %}
+  <h1 class="share-red text-center">INDEKS PRIVATNOSTI U MEDIJIMA 2021</h1>
+
+  {% include './index-intro.njk' %}
+  <hr />
+  {{ renderTop5(top_5) }}
+  <hr />
+  {{ renderRanking(rankingData) }}
+  <hr />
+  {% include './about.njk' %}
+  
+{% endblock %}
