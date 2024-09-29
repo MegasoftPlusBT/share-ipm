@@ -81,6 +81,16 @@ details summary > * {
   font-size: 85%;
   /* content: "🡳"; */
 }
+.down-arrow-before2024::before {
+  content: "➜";
+  display: inline-block;
+  transform: rotate(90deg);
+  font-family: "Roboto";
+  font-size: 105%;
+  color: #219653;
+  margin-right: 2px;
+  /* content: "🡳"; */
+}
 .down-arrow-before2022::before {
   content: "➜";
   display: inline-block;

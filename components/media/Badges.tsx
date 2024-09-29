@@ -1,7 +1,7 @@
 const Badges = ({ year, badges }) => {
   return (
     <>
-      {year === "2022" && badges.length > 0 && (
+      {(year === "2022" || year === "2024") && badges.length > 0 && (
         <div
           className={
             "mx-auto mt-5 text-center flex flex-wrap " +
@@ -17,7 +17,6 @@ const Badges = ({ year, badges }) => {
                 "2xl:h-[150px] 2xl:mb-8 " +
                 "xl:h-[125px] xl:mb-4"
               }
-              //   style={{ margin-top: 80 * i + "px" }}
               src={`/images/${badge}`}
             />
           ))}

@@ -22,8 +22,8 @@ const ToggleYear = ({ year, setYear, media }) => {
             "p-2 border-2 " +
             (year === label
               ? `bg-[${bgColor}] text-white border-[${bgColor}]`
-              : "text-[#828282] border-[#828282] " +
-                (index === 0 ? "border-r-0" : index === availableYears.length - 1 ? "border-l-0" : "border-r-0"))
+              : "text-[#828282] border-[#828282]") +
+            (index > 0 ? " -ml-[2px]" : "")
           }
         >
           {label}

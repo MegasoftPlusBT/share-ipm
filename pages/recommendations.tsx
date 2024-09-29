@@ -98,6 +98,7 @@ const Recommendations = ({ media }) => {
               tehnologija za praćenje na svom sajtu ili u okviru politike
               privatnosti ili kao nezavisni dokument.
             </li>
+            <li>U najboljem slučaju, mediji bi trebalo odmah pri ulasku na sajt da traže korisnicima da se izjasne o obradi ličnih podataka, kao i da omoguće, u slučaju predomišljanja, u svakom trenutku jasnu i vidljivu opciju za povlačenje pristanka.</li>
             <li>
               Obaveštenje o kolačićima treba da sadrži jednostavnu opciju za
               korisnike koji ne žele da pristanu na korišćenje kolačića, odnosno
@@ -151,6 +152,9 @@ const Recommendations = ({ media }) => {
               mnogo je transparentnije jer na taj način mediji sami mogu da
               biraju dozvole i tehnologije za praćenje koje žele da koriste.
             </li>
+            <li>
+            Ako imaju aplikacije, mediji bi trebalo redovno da vrše provere i ažuriraju svoje aplikacije kao i da obaveštavaju korisnike o svim promenama.
+            </li>
           </ul>
         </div>
       </div>
@@ -163,18 +167,13 @@ const Recommendations = ({ media }) => {
         <div className="html-code-wrapper">
           <ul>
             <li>
-              Poštovati princip minimizacije podataka prilikom registracije
-              korisnika.{" "}
+            Potrebno je poštovati princip minimizacije podataka prilikom registracije korisnika. {" "}
             </li>
             <li>
-              Ograničiti prikupljanje podataka samo na one koji su neophodni za
-              konkretnu svrhu registracije što su, kako se najčešće pokazuje,
-              mejl, korisničko ime i lozinka.{" "}
+            Potrebno je ograničiti prikupljanje podataka samo na one koji su neophodni za konkretnu svrhu registracije, što su, kako se najčešće pokazuje, mejl/korisničko ime i lozinka.{" "}
             </li>
             <li>
-              Uskladiti politike privatnosti sa stvarnom opcijom registracije:
-              ukoliko takva opcija ne postoiji na sajtu, nema potrebe da se
-              pominje u politici privatnosti.{" "}
+            	Potrebno je uskladiti politike privatnosti sa registracijom, jer se u nekoliko navrata registracija u politici privatnosti pominje, dok je na samoj veb stranici nema. {" "}
             </li>
             <li>
               Ukoliko se opcija registracije pojavljuje na stranici, potrebno je
@@ -193,29 +192,13 @@ const Recommendations = ({ media }) => {
         <div className="html-code-wrapper">
           <ul>
             <li>
-              Novinari i medijske organizacije lakše ostvaruju svoja prava i
-              interese kroz esnafska udruženja, u kojima mogu steći i znanja o
-              važećim zakonima i etičkim načelima. Učešće u radu takvih
-              udruženja preporučuje se i u cilju delotvornijeg unutrašnjeg
-              regulisanja profesije.
+            Prihvatanje nadležnosti Saveta za štampu bio bi pokazatelj uspostavljanja dobre prakse u radu onlajn medija. Mediji u svom izveštavanju treba da poštuju pravila iz Kodeksa novinara Srbije, a u kontekstu privatnosti posebno da obrate pažnju na odeljke koji se tiču odgovornosti novinara (IV) i poštovanja privatnosti (VII)
             </li>
             <li>
-              Mediji u svom izveštavanju treba da poštuju pravila iz Kodeksa
-              novinara Srbije, a u kontekstu privatnosti posebno da obrate
-              pažnju na odeljke koji se tiču odgovornosti novinara (IV) i
-              poštovanja privatnosti (VII)
+            Mediji treba da poštuju privatnost i identitet osumnjičenog ili počinioca krivičnog dela,  zaštite druge podatke koji bi mogli da upute na identitet osumnjičenog ili počinioca, a takođe treba da zaštite i identitet žrtava (stav 3 odeljka Odgovornost novinara Kodeksa novinara Srbije)
             </li>
             <li>
-              Onlajn mediji treba da konsultuju i{" "}
-              <a
-                href="https://savetzastampu.rs/wp-content/uploads/2020/11/smernice-za-primenu-kodeksa-novinara-srbije-u-onlajn-okruzenju.pdf"
-                className="share-red"
-                target="_blank"
-              >
-                Smernice za primenu Kodeksa novinara Srbije u onlajn okruženju
-              </a>
-              , kao dopunu samom Kodeksu i njegovo prilagođavanje digitalnom
-              prostoru.
+            	Novinari treba da poštuju štite prava i dostojanstvo dece, žrtava zločina, osoba sa hendikepom i drugih ugroženih grupa (stav 5 odeljka Odgovornost novinara Kodeksa)
             </li>
           </ul>
         </div>

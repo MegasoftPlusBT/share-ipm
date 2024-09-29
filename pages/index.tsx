@@ -22,7 +22,7 @@ const IndexPage = ({ questions, media, categories }) => {
         <br />
         <span className="text-[#14A3DB] text-4xl">PRIVATNOSTI U MEDIJIMA</span>
         <br />
-        <span className="text-[#F0368F] tracking-wide">2022</span>
+        <span className="text-[#F0368F] tracking-wide">2024</span>
       </h1>
       <IndexIntro />
       <Top5 media={media} />

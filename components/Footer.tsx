@@ -68,12 +68,7 @@ const Footer = () => {
       </section>
       <section className="right">
         <h4>Projekat podržali:</h4>
-        <img
-          src="/images/footer-logo-1.png"
-          className="support-logo"
-          height="88"
-          style={{ height: "88px" }}
-        />
+    
         <img
           src="/images/footer-logo-2.png"
           className="support-logo"
@@ -88,9 +83,7 @@ const Footer = () => {
         />
         <p className="my-2">
           Stavovi izraženi na ovom sajtu ne predstavljaju nužno stavove Ambasade
-          Kraljevine Holandije u Beogradu, Ambasade Kraljevine Norveške,
-          Balkanskog fonda za demokratiju Nemačkog Maršalovog fonda SAD (Balkan
-          Trust for Democracy of the German Marshall Fund of the U.S. – BTD) ili
+          Kraljevine Holandije u Beogradu, Ambasade Kraljevine Norveške ili
           njihovih partnera.
         </p>
       </section>

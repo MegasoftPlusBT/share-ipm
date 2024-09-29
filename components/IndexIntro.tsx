@@ -35,7 +35,7 @@ const IndexIntro = () => {
                 content: "➜";
                 display: inline-block;
                 transform: translateX(5px) rotate(-45deg);
-                color: #F0368F;
+                color: #219653;
             }
             a.key-findings-link2022::after {
                 content: "➜";

@@ -183,6 +183,18 @@ const Ranking = ({ media, categories }) => {
             grid-template-columns: 1fr 1fr 1fr 1fr;
             padding-left: 25px;
           }
+
+          @media (max-width: 768px) {
+                    .ranking-grid-bar-item {
+                        padding-left: 5px;
+                    }
+                    .ranking-grid-table-row {
+                        margin-right: 10px;
+                        grid-template-columns: 1fr 20px;
+                        grid-column-gap: 10px;
+                        letter-spacing: -0.5px;
+                    }
+                }
           .ranking-total-wrapper-qtr1 {
             grid-row: 1 / 3;
             grid-column: 2 / 3;
@@ -206,6 +218,7 @@ const Ranking = ({ media, categories }) => {
           .ranking-total {
             position: relative;
             border-radius: 4px;
+            margin-top: -4.5px;
             height: 10px;
             grid-column: 1 / 5;
             display: grid;
@@ -227,6 +240,7 @@ const Ranking = ({ media, categories }) => {
           .ranking-total2022 {
             position: relative;
             border-radius: 4px;
+            margin-bottom: 4.5px;
             height: 10px;
             grid-column: 1 / 5;
             display: grid;
@@ -248,6 +262,8 @@ const Ranking = ({ media, categories }) => {
           .ranking-total2024 {
             position: relative;
             border-radius: 4px;
+            margin-bottom: 2.5px;
+            margin-top: 3.5px;
             height: 10px;
             grid-column: 1 / 5;
             display: grid;
@@ -270,6 +286,58 @@ const Ranking = ({ media, categories }) => {
                     display: flex;
                     justify-content: space-between;
                 }
+
+                .ranking-diff {
+                    position: relative;
+                    border-radius: 4px;
+                    grid-row: 1 / 3;
+                    height: 10px;
+                    grid-column: 3 / 5;
+                    align-self: center;
+                    display: grid;
+                    grid-template-rows: auto;
+                }
+
+                .ranking-diff-negative {
+                    position: relative;
+                    border-radius: 4px;
+                    grid-row: 1 / 3;
+                    height: 10px;
+                    grid-column: 1 / 3;
+                    align-self: center;
+                    display: grid;
+                    grid-template-rows: auto;
+                    justify-self: end;
+                }
+                .ranking-diff::after {
+                    position: absolute;
+                    top: 0;
+                    right: 0;
+                    margin-top: -2.5px;
+                    margin-right: -22px;
+                    font-family: Foundry;
+                    font-style: normal;
+                    font-weight: bold;
+                    font-size: 14px;
+                    line-height: 100%;
+                    text-transform: uppercase;
+                }
+                .ranking-diff-negative::before {
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    margin-top: -2.5px;
+                    margin-left: -26px;
+                    font-family: Foundry;
+                    font-style: normal;
+                    font-weight: bold;
+                    font-size: 14px;
+                    line-height: 100%;
+                    text-transform: uppercase;
+                }
+
+                 @media (max-width: 768px) {}
+
         `}
       </style>
       <header className="ranking-header flex flex-wrap track">
@@ -333,22 +401,24 @@ const Ranking = ({ media, categories }) => {
             </div>
           </div>
           {list.map((m) => (
-            <div key={m.name} className="ranking-grid-table-row">
-              <div className="ranking-name">
-                <a href={"media/" + m.htmlFileName}>{m.name}</a>
-              </div>
-              <div className="ranking-rank">
-                {
-                  {
-                    total: sortBy === "rank" ? m.rank : m.rank2022,
-                    category:
-                      sortBy === "rank" ? m.rank_filtered : m.rank2022_filtered,
-                    diff: m.rankDiff,
-                  }[rankingType]
-                }
-              </div>
-            </div>
-          ))}
+  <div key={m.name} className="ranking-grid-table-row">
+    <div className="ranking-name">
+      <a href={"media/" + m.htmlFileName}>{m.name}</a>
+    </div>
+    <div className="ranking-rank">
+      {
+        {
+          total: sortBy === "rank" ? (is2024 ? m.rank2024 : m.rank) : (is2024 ? m.rank2024 : m.rank2022),
+          category: sortBy === "rank" 
+            ? (is2024 ? m.rank2024_filtered : m.rank_filtered) 
+            : (is2024 ? m.rank2024_filtered : m.rank2022_filtered),
+          diff: m.rankDiff,
+        }[rankingType]
+      }
+    </div>
+  </div>
+))}
+
         </div>
         <div id="ranking-grid-bar-chart">
           <div
@@ -382,7 +452,7 @@ const Ranking = ({ media, categories }) => {
                     setRankingType("category");
                     setIsSortOrderAsc(false);
                     if (!is2022 && !is2021 && !is2024) {
-                      setIs2022(true);
+                      setIs2024(true);
                     } else if (is2022) {
                       setIs2021(false);
                     }
@@ -441,7 +511,7 @@ const Ranking = ({ media, categories }) => {
                   setIs2024((prevIs2024) => { // Added toggle for 2024
                     if (rankingType === "category" && (is2021 || is2022)) {
                       setIs2021(false);
-                      setIs2022(false);
+                      setIs2022(prevIs2024);
                     }
                     return !prevIs2024;
                   })
@@ -460,7 +530,7 @@ const Ranking = ({ media, categories }) => {
               <span
                 onClick={() =>
                   setIs2022((prevIs2022) => {
-                    if (rankingType === "category" && is2021) {
+                    if (rankingType === "category" && (is2021 || is2024)) {
                       setIs2021(prevIs2022);
                     }
                     if (rankingType === "diff") {
@@ -485,7 +555,7 @@ const Ranking = ({ media, categories }) => {
               <span
                 onClick={() =>
                   setIs2021((prevIs2021) => {
-                    if (rankingType === "category" && is2022) {
+                    if (rankingType === "category" && (is2022 || is2024)) {
                       setIs2022(prevIs2021);
                     }
                     if (rankingType === "diff") {
@@ -512,9 +582,9 @@ const Ranking = ({ media, categories }) => {
                   setRankingType((v) => {
                     if (v === "diff") {
                       setIsSortOrderAsc(false);
-                      setIs2022(true);
+                      setIs2022(false);
                       setIs2021(false);
-                      setIs2024(false); // Reset for 2024
+                      setIs2024(true); // Reset for 2024
                       return "total";
                     } else {
                       setIsSortOrderAsc(true);

@@ -54,9 +54,9 @@
     "<p>Konekcija uređaja i sajta je sigurna, hosting server se nalazi u Srbiji, a podaci korisnika ne napuštaju zemlju na svom putu do servera. Razumljivost politike privatnosti ocenjena je srednjom ocenom, dok njen sadržaj gotovo u potpunosti ispunjava zakonske obaveze o informisanju korisnika o obradi ličnih podataka.<br />Sajt obaveštava korisnike da postavlja kolačiće, ali ne pruža jednostavan način za uskraćivanje pristanka. Plasira značajnu količinu kolačića i trekera, uključujuči i najintruzivnije vrste. Od korisnika Android platforme traži se određen broj rizičnih dozvola, uz osrednji broj trekera, dok se od korisnika iOS prikupljaju podaci koji nisu lični.<br />Registracija korisnika je obuhvaćena politikom privatnosti, a količina podataka koja se na taj način skuplja minimalna je u odnosu na svrhu.<br />Protiv medija donete su tri odluke o kršenju etičkog kodeksa u oblasti privatnosti.</p>"
   ],
   [
-    "Večernje novosti",
+    "Novosti",
     "novosti.rs",
-    "Sajt dnevnog lista registrovanog 13.11.2009. Izdavač: Novinsko-izdavačko društvo Kompanija Novosti ad Beograd.",
+    "Registrovan kao samostalno elektronsko izdanje (internet portal) 10.11.2021. Izdavač: Novinsko-izdavačko društvo Kompanija Novosti ad Beograd.",
     "<p>Konekcija se uspostavlja po sigurnom protokolu, server se nalazi u jednoj zemlji EU koja je, pored Srbije, i jedina jurisdikcija kroz koju podaci prolaze. Razumljivost politike privatnosti ocenjena je srednjom ocenom, a njen sadržaj uglavnom ispunjava zakonske obaveze o informisanju korisnika o obradi ličnih podataka.<br />Sajt obaveštava korisnike da postavlja kolačiće, ali ne pruža jednostavan način za uskraćivanje pristanka. Postavlja veliku količinu kolačića i trekera, uključujuči i najintruzivnije vrste. Od korisnika Android platforme ne traže se rizične dozvole, uz manji broj trekera, dok se od korisnika iOS prikupljaju podaci koji nisu lični.<br />Na sajtu ne postoji opcija registracije korisnika.<br />Protiv medija donete su dve odluke o kršenju etičkog kodeksa u oblasti privatnosti.</p>"
   ],
   [
@@ -68,7 +68,7 @@
   [
     "Espreso",
     "espreso.co.rs",
-    "Registrovan kao samostalno elektronsko izdanje (internet portal) 09.09.2015. Izdavač: Adria Media Group doo Beograd.",
+    "Registrovan kao samostalno elektronsko izdanje (internet portal) 09.09.2015. Izdavač: Privredno društvo za obezbeđivanje prava i distribuciju audio-vizuelnih proizvoda MONDO INC DOO.",
     "<p>Server se nalazi izvan evropskog kontinenta, ali je u zemlji koja je usaglašena sa standardima zaštite podataka. Pored Srbije, podaci prolaze kroz jednu članicu EU i jednu državu usaglašenu sa standardima zaštite. Konekcija uređaja i sajta je sigurna. Politika privatnosti postoji, ali na stranom jeziku i ne ispunjava nijednu zakonsku obavezu o informisanju korisnika o obradi ličnih podataka.<br />Sajt obaveštava korisnike da postavlja kolačiće, ali ne pruža jednostavan način za uskraćivanje pristanka. Plasira značajnu količinu kolačića i trekera, među kojima nema najintruzivnijih vrsta. Od korisnika Android platforme ne traže se rizične dozvole, mada trekera ima, dok se od korisnika iOS ne prikupljaju lični podaci.<br />Na sajtu ne postoji opcija registracije korisnika.<br />Protiv medija nema odluka o kršenju etičkog kodeksa u oblasti privatnosti.</p>"
   ],
   [
@@ -108,7 +108,7 @@
     "<p>Konekcija uređaja i sajta odvija se po sigurnom protokolu, server se nalazi u jednoj EU državi. Na svom putu od korisničkog uređaja do servera, podaci prolaze i kroz jednu evropsku zemlju, koja nije članica EU, ali je usaglašena sa standardima zaštite. Razumljivost politike privatnosti ocenjena je srednjom ocenom, ali njen sadržaj tek u manjoj meri ispunjava zakonske obaveze o informisanju korisnika o obradi ličnih podataka.<br />Kolačići na sajtu su aktivni, ali postoji jednostavan i vidljiv način da se isključe. Sajt plasira izuzetno veliki broj kolačića i trekera, mada ne i one najintruzivnije. Od korisnika Android platforme traži se manji broj rizičnih dozvola, uz manji broj trekera, dok korisnici iOS nisu informisani o vrsti podataka koji se prikupljaju.<br />Registracija korisnika je obuhvaćena politikom privatnosti, a količina podataka koja se na taj način skuplja minimalna je u odnosu na svrhu.<br />Protiv medija nema odluka o kršenju etičkog kodeksa u oblasti privatnosti.</p>"
   ],
   [
-    "Radio 021",
+    "021",
     "021.rs",
     "Sajt radio programa registrovanog 24.12.2009. Izdavač: Radiodifuzno preduzeće 021 doo Novi Sad.",
     "<p>Konekcija uređaja i sajta se odvija po sigurnom protokolu. Server se nalazi u Srbiji, a podaci korisnika ne napuštaju zemlju. Razumljivost politike privatnosti ocenjena je najnižom ocenom, dok njen sadržaj delimično ispunjava zahteve propisane zakonom o informisanju korisnika o obradi ličnih podataka.<br />Sajt obaveštava korisnike da postavlja kolačiće, ali ne pruža jednostavan način za uskraćivanje pristanka. Plasira određenu količinu kolačića i trekera, mada ne i najintruzivnije vrste. Sajt nema aplikacije za mobilne platforme.<br />Na sajtu ne postoji opcija registracije korisnika.<br />Protiv medija nema odluka o kršenju etičkog kodeksa u oblasti privatnosti.</p>"
@@ -230,7 +230,7 @@
   [
     "Užice media",
     "uzicemedia.rs",
-    "Registrovan kao samostalno elektronsko izdanje (internet portal) 18.05.2016. Izdavač: Udruženje građana NVO “Užicemedia”.",
+    "Registrovan kao samostalno elektronsko izdanje (internet portal) 18.05.2016. Izdavač: Udruženje građana NVO “Užice media”.",
     "<p>Uređaj i sajt komuniciraju po sigurnom protokolu. Server se nalazi u državi EU koja je, uz Srbiju, i jedina tranzitna zemlja za podatke.  Razumljivost politike privatnosti ocenjena je najnižom ocenom, dok njen sadržaj ne ispunjava većinu obaveza propisanih zakonom o obaveštavanju korisnika o obradi ličnih podataka.<br />Sajt obaveštava korisnike da postavlja kolačiće, ali ne pruža jednostavan način za uskraćivanje pristanka. Plasira se veći broj kolačića i trekera, bez najintruzivnijih. Nema aplikacije za mobilne platforme. Ne postoji opcija registracije korisnika.<br />Protiv medija nema odluka o kršenju etičkog kodeksa u oblasti privatnosti.</p>"
   ],
   [
@@ -266,7 +266,7 @@
   [
     "Pirotske vesti",
     "pirotskevesti.rs",
-    "Registrovan kao samostalno elektronsko izdanje (internet portal) 20.01.2014. Izdavač: Aleksandar Ćirić pr Agencija za veb portale i novinske delatnosti Pina NC Pirot.",
+    "Registrovan kao samostalno elektronsko izdanje (internet portal) 20.01.2014. Izdavač: Aleksandar Ćirić pr Agencija za veb portale i novinske delatnosti PINA doo Pirot.",
     "<p>Komunikacija uređaja i sajta odvija se po sigurnom protokolu. Hosting server je lociran u Srbiji, ali, osim kroz Srbiju, podaci putuju kroz jednu zemlju EU i SAD. Ne postoji politika privatnosti, pa su poeni oduzeti po svakom od indikatora iz ove kategorije.<br />Ne postoji obaveštenje o kolačićima, koje sajt plasira u određenoj meri, mada bez najintruzivnijih. Na Android platformi ne traže se dozvole, niti ima trekera, dok na iOS platformi nema informacija o podacima koji se prikupljaju. Ne postoji opcija registracije korisnika.<br />Protiv medija nema odluka o kršenju etičkog kodeksa u oblasti privatnosti.</p>"
   ],
   [
@@ -278,7 +278,7 @@
   [
     "Oblakoder",
     "oblakoder.org.rs",
-    "Onlajn magazin namenjen mladima, pokrenut 2018.",
+    "Registrovan kao samostalno elektronsko izdanje (internet portal) 13.02.2019. Izdavač: Oblakoder",
     "<p>Konekcija uređaja i sajta je sigurna, server se nalazi u zemlji čiji pravni režim odgovara standardima zaštite podataka. Putanja, osim kroz Srbiju i zemlju gde se podaci skladište, registrovana je u jednoj državi EU. Sajt nema politiku privatnosti, pa su poeni oduzeti po svim indikatorima iz ove kategorije.<br />Sajt nema obaveštenje o kolačićima, ali plasira zanemarljiv broj, bez najintruzivnijih. Od korisnika Androida ne traže se rizične dozvole, prisutna su dva trekera, dok nema aplikacije za iOS. Ne postoji opcija registracije korisnika.<br />Protiv medija nema odluka o kršenju etičkog kodeksa u oblasti privatnosti.</p>"
   ],
   [
@@ -308,7 +308,37 @@
   [
     "Sputnik",
     "sputnik.rs",
-    "Registrovan kao samostalno elektronsko izdanje (internet portal) 07.06.2016. Izdavač: Adria Media Group doo Beograd.",
+    "",
     "<p>Mada se server ne nalazi u Srbiji, a podaci prolaze kroz još dve zemlje, na tehničkim parametrima nisu oduzimani poeni, jer je reč o jurisdikcijama koje pružaju adekvatnu pravnu zaštitu. Veći broj poena oduzet je na indikatorima o ispunjavanju zakonske obaveze informisanja korisnika o obradi ličnih podataka: politika privatnosti postoji ali, osim što nije pisana jasno i transparentno, ne pruža gotovo nijednu informaciju o obradi.<br />Sajt obaveštava korisnike da postavlja kolačiće, ali ne postoji jednostavan način za uskraćivanje pristanka. Manji broj kolačića i trekera uštedeli su sajtu nešto poena, što je slučaj i sa verzijama za mobilne uređaje.<br />Registracija korisnika opisana je u politici privatnosti, ali obim prikupljenih podataka prevazilazi svrhu njihovog prikupljanja. Sa 12 odluka o kršenju etičkog kodeksa u oblasti privatnosti, medij se svrstava u visoko rizične aktere.</p>"
+  ],
+  [
+    "Soinfo",
+    "soinfo.org",
+    "Registrovan kao samostalno elektronsko izdanje (uređivački oblikovana internet stranica) 03.12.2009. Izdavač: Udruženje građana “SO open”",
+    "<p>Tehnički i pravni preduslovi su u određenoj meri ispunjeni: sajt obezbeđuje siguran protokol za komunikaciju sa korisničkim uređajem, server i putanja podataka locirani su u državi koja delimično odgovara standardima zaštite podataka; od 12 pokazatelja o izvršavanju zakonske obaveze o informisanju korisnika, tri su slabije bodovana.<br />Najveći broj poena oduzet je na indikatorima o broju i vrsti trekera, kolačićima trećih strana i alatima velikih korporacija. Sajt obaveštava korisnike da postavlja kolačiće, ali ne pruža jednostavan način za uskraćivanje pristanka. Intruzivna praksa sa ličnim podacima korisnika uglavnom se ponavlja na mobilnim platformama.<br />Registracija korisnika opisana je u politici privatnosti, ali obim prikupljenih podataka prevazilazi svrhu njihovog prikupljanja. Pet odluka o kršenju etičkog kodeksa u oblasti privatnosti svrstava medij u srednje rizične aktere.</p>"
+  ],
+  [
+    "Pink",
+    "pink.rs",
+    "Registrovan kao samostalno elektronsko izdanje (internet portal) 11.03.2016. Izdavač: Pink Media Group doo Beograd.",
+    "<p>Tehnički i pravni preduslovi su u određenoj meri ispunjeni: sajt obezbeđuje siguran protokol za komunikaciju sa korisničkim uređajem, server i putanja podataka locirani su u državi koja delimično odgovara standardima zaštite podataka; od 12 pokazatelja o izvršavanju zakonske obaveze o informisanju korisnika, tri su slabije bodovana.<br />Najveći broj poena oduzet je na indikatorima o broju i vrsti trekera, kolačićima trećih strana i alatima velikih korporacija. Sajt obaveštava korisnike da postavlja kolačiće, ali ne pruža jednostavan način za uskraćivanje pristanka. Intruzivna praksa sa ličnim podacima korisnika uglavnom se ponavlja na mobilnim platformama.<br />Registracija korisnika opisana je u politici privatnosti, ali obim prikupljenih podataka prevazilazi svrhu njihovog prikupljanja. Pet odluka o kršenju etičkog kodeksa u oblasti privatnosti svrstava medij u srednje rizične aktere.</p>"
+  ],
+  [
+    "Republika",
+    "republika.rs",
+    "Registrovan kao samostalno elektronsko izdanje (internet portal) 17.05.2017. Izdavač: Medijska Mreža doo Beograd.",
+    "<p>Tehnički i pravni preduslovi su u određenoj meri ispunjeni: sajt obezbeđuje siguran protokol za komunikaciju sa korisničkim uređajem, server i putanja podataka locirani su u državi koja delimično odgovara standardima zaštite podataka; od 12 pokazatelja o izvršavanju zakonske obaveze o informisanju korisnika, tri su slabije bodovana.<br />Najveći broj poena oduzet je na indikatorima o broju i vrsti trekera, kolačićima trećih strana i alatima velikih korporacija. Sajt obaveštava korisnike da postavlja kolačiće, ali ne pruža jednostavan način za uskraćivanje pristanka. Intruzivna praksa sa ličnim podacima korisnika uglavnom se ponavlja na mobilnim platformama.<br />Registracija korisnika opisana je u politici privatnosti, ali obim prikupljenih podataka prevazilazi svrhu njihovog prikupljanja. Pet odluka o kršenju etičkog kodeksa u oblasti privatnosti svrstava medij u srednje rizične aktere.</p>"
+  ],
+  [
+    "Mingl",
+    "mingl.rs",
+    "Portal za srednjoškolce Mingl, registrovan 03.12.2010. kao samostalno elektronsko izdanje (internet portal). Izdavač: Beogradska otvorena škola.",
+    "<p>Tehnički i pravni preduslovi su u određenoj meri ispunjeni: sajt obezbeđuje siguran protokol za komunikaciju sa korisničkim uređajem, server i putanja podataka locirani su u državi koja delimično odgovara standardima zaštite podataka; od 12 pokazatelja o izvršavanju zakonske obaveze o informisanju korisnika, tri su slabije bodovana.<br />Najveći broj poena oduzet je na indikatorima o broju i vrsti trekera, kolačićima trećih strana i alatima velikih korporacija. Sajt obaveštava korisnike da postavlja kolačiće, ali ne pruža jednostavan način za uskraćivanje pristanka. Intruzivna praksa sa ličnim podacima korisnika uglavnom se ponavlja na mobilnim platformama.<br />Registracija korisnika opisana je u politici privatnosti, ali obim prikupljenih podataka prevazilazi svrhu njihovog prikupljanja. Pet odluka o kršenju etičkog kodeksa u oblasti privatnosti svrstava medij u srednje rizične aktere.</p>"
+  ],
+  [
+    "Kragujevačke",
+    "kragujevacke.rs",
+    "Sajt registrovan kao forma nedeljnih novina 30.12.2009. Izdavač: Privredno društvo za novinsko izdavačku delatnost Javnost doo, Kragujevac",
+    "<p>Tehnički i pravni preduslovi su u određenoj meri ispunjeni: sajt obezbeđuje siguran protokol za komunikaciju sa korisničkim uređajem, server i putanja podataka locirani su u državi koja delimično odgovara standardima zaštite podataka; od 12 pokazatelja o izvršavanju zakonske obaveze o informisanju korisnika, tri su slabije bodovana.<br />Najveći broj poena oduzet je na indikatorima o broju i vrsti trekera, kolačićima trećih strana i alatima velikih korporacija. Sajt obaveštava korisnike da postavlja kolačiće, ali ne pruža jednostavan način za uskraćivanje pristanka. Intruzivna praksa sa ličnim podacima korisnika uglavnom se ponavlja na mobilnim platformama.<br />Registracija korisnika opisana je u politici privatnosti, ali obim prikupljenih podataka prevazilazi svrhu njihovog prikupljanja. Pet odluka o kršenju etičkog kodeksa u oblasti privatnosti svrstava medij u srednje rizične aktere.</p>"
   ]
 ]
