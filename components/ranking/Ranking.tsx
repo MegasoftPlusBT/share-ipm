@@ -18,7 +18,6 @@ const Ranking = ({ media, categories }) => {
   } else {
     sortBy = is2022 ? "rank2022" : is2024 ? "rank2024" : "rank";
   }
-  console.log("sortBy",sortBy)
   const defaultCategorySelectors = {};
   categories.forEach((category) => {
     defaultCategorySelectors[category.title] = true;
@@ -55,7 +54,6 @@ const Ranking = ({ media, categories }) => {
       .reduce((sum, c) => sum + c.points2024, 0); // Added for 2024
     m.diff = m.perCategory.reduce((sum, c) => sum + c.points2022 - c.points, 0);
   });
-console.log("list media", list)
   list.sort((a, b) => b.diff - a.diff).forEach((m, i) => {
     m.rankDiff = i + 1;
   });
@@ -99,8 +97,6 @@ console.log("list media", list)
     if (i > 0) {
       const prev = list[i - 1];
       if (m.filteredTotal2024 === prev.filteredTotal2024) {
-        console.log("m.rank2024_filtered", m.rank2024_filtered)
-        console.log("prev.rank2024_filtered", prev.rank2024_filtered)
         m.rank2024_filtered = prev.rank2024_filtered; // Added for 2024
       }
     }
@@ -564,7 +560,6 @@ console.log("list media", list)
               <span
                 onClick={() =>
                   setIs2024((prevIs2024) => { // Added toggle for 2024
-                    console.log("prevIs2024",prevIs2024)
                     if (rankingType === "category" && (is2021 || is2022)) {
                       setIs2021(false);
                       setIs2022(prevIs2024);
