@@ -14,7 +14,7 @@ const Recommendations = ({ media }) => {
         <a
           className="share-red down-arrow-after"
           target="_blank"
-          href="/documents/Preporuke_2022.pdf"
+          href="/documents/Preporuke_2024.pdf"
         >
           PREUZMITE PDF
         </a>

@@ -92,18 +92,6 @@ const Top5 = ({ media }) => {
             TOP 5
           </span>
           <span
-            onClick={() => setYear("2022")}
-            className={
-              (year === "2022" ? "bg-[#F0368F]" : "bg-white") +
-              " " +
-              (year === "2022" ? "text-white" : "text-[#aaaaaa]") +
-              " " +
-              ` cursor-pointer px-2 py-1 border-2 border-x-0 border-black font-bold text-xl`
-            }
-          >
-            2022
-          </span>
-          <span
             onClick={() => setYear("2021")}
             className={
               (year === "2021" ? "bg-[#14A3DB]" : "bg-white") +
@@ -116,6 +104,19 @@ const Top5 = ({ media }) => {
             2021
           </span>
           <span
+            onClick={() => setYear("2022")}
+            className={
+              (year === "2022" ? "bg-[#F0368F]" : "bg-white") +
+              " " +
+              (year === "2022" ? "text-white" : "text-[#aaaaaa]") +
+              " " +
+              ` cursor-pointer px-2 py-1 border-2 border-x-0 border-black font-bold text-xl`
+            }
+          >
+            2022
+          </span>
+
+          <span
             onClick={() => setYear("2024")}
             className={
               (year === "2024" ? "bg-[#28A745]" : "bg-white") +
@@ -127,6 +128,7 @@ const Top5 = ({ media }) => {
           >
             2024
           </span>
+     
         </div>
       </header>
       <header className="justify-end">

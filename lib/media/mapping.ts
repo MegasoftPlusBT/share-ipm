@@ -152,8 +152,15 @@ export function toOutputFormat(
     .sort((a, b) => b.total2024 - a.total2024)  // Sort by 2024 points
     .map((media, i) => {
       media.rank2024 = i + 1;
+      if (i > 0) {
+        const prev = mediaPoints[i - 1];
+        if (media.total2024 === prev.total2024) {
+          media.rank2024 = prev.rank2024;
+        }
+      }
       return media;
     });
+    
     
   // Overall rank
   mediaPoints = mediaPoints

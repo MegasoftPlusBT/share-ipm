@@ -380,72 +380,109 @@ const Media = ({ media, mediaList }) => {
         `}
       </style>
       <header className="flex justify-between flex-wrap relative">
-        <div className="media-info">
-          <h1 className="text-5xl md:text-6xl lg:text-6xl xl:text-6xl 2xl:text-6xl mb-8">
-            {media.name}
-          </h1>
-          <ToggleYear year={year} setYear={setYear} media={media} />
-          <p className="media-url">
-            <a href={`//${media.url}`} target="_blank" rel="noreferrer">
-              {media.url}
-            </a>
-          </p>
-          <p>{media.about}</p>
+  <div className="media-info">
+    <h1 className="text-5xl md:text-6xl lg:text-6xl xl:text-6xl 2xl:text-6xl mb-8">
+      {media.name}
+    </h1>
+    <ToggleYear year={year} setYear={setYear} media={media} />
+    <p className="media-url">
+      <a href={"//" + media.url} target="_blank">
+        {media.url}
+      </a>
+    </p>
+    <p>{media.about}</p>
+  </div>
+  <PerCategoryDonut media={media} year={year} />
+</header>
+
+<Badges year={year} badges={year === "2024" ? media.badges2024 : media.badges2022} />
+
+<div
+  className="media-category-breakdown"
+  style={{
+    gridTemplateRows: media.perCategory
+      .filter((row) => year === "2021" || year === "2024" || row.points2022 != null)
+      .map(() => "auto")
+      .join(" "),
+  }}
+>
+  {media.perCategory
+    .filter((row) => year === "2021" || year === "2024" || row.points2022 != null)
+    .map((row, i) => (
+      <div key={year + row.name} className="per-category-wrapper" id={row.handle}>
+        <div className="media-square" style={{ backgroundColor: row.color }}>
+          <span className="media-category-points">
+            {/* Handle points for each year */}
+            {year === "2022"
+              ? row.points2022
+              : year === "2024"
+              ? row.points2024
+              : row.points}
+          </span>
+          <span className="max-category-points">{row.maxPoints}</span>
         </div>
-        <PerCategoryDonut media={media} year={year} />
-      </header>
-      <Badges
-        year={year}
-        badges={year === "2024" ? media.badges2024 : media.badges2022}
-      />
-      <div
-        className="media-category-breakdown"
-        style={{
-          gridTemplateRows: media.perCategory
-            .filter(row => (year === "2021" || year === "2024" || row.points2022 != null))
-            .map(() => "auto")
-            .join(" "),
-        }}
-      >
-        {media.perCategory
-          .filter(row => (year === "2021" || year === "2024" || row.points2022 != null))
-          .map((row) => (
-            <div key={`${year}${row.name}`} className="per-category-wrapper" id={row.handle}>
-              <div className="media-square" style={{ backgroundColor: row.color }}>
-                <span className="media-category-points">
-                  {year === "2022" ? row.points2022 : year === "2024" ? row.points2024 : row.points}
+        <div style={{ backgroundColor: row.color }} className="media-category-name">
+          <div>{row.name}</div>
+        </div>
+        <details style={{ backgroundColor: row.color }} className="breakdown-toggle-wrapper">
+          <summary>
+            <div className="breakdown-toggle">
+              <div className="breakdown-expand">+</div>
+              <div className="breakdown-collapse">-</div>
+            </div>
+          </summary>
+        </details>
+        <div className="media-category-indicators">
+          {row.indicators.map((indicator) => (
+            <div key={year + indicator.name} className="indicator-wrapper">
+              <label className="indicator-label">INDIKATOR:</label>
+              <span className="indicator-text">{indicator.name}</span>
+              <label className="response-label">ODGOVOR:</label>
+              <span className="indicator-response">
+                <span className="response-text">
+                  {/* Handle responses for each year */}
+                  {year === "2022"
+                    ? indicator.response2022
+                    : year === "2024"
+                    ? indicator.response2024
+                    : indicator.response}
                 </span>
-                <span className="max-category-points">{row.maxPoints}</span>
-              </div>
-              <div style={{ backgroundColor: row.color }} className="media-category-name">
-                <div>{row.name}</div>
-              </div>
-              <details style={{ backgroundColor: row.color }} className="breakdown-toggle-wrapper">
-                <summary>
-                  <div className="breakdown-toggle">
-                    <div className="breakdown-expand">+</div>
-                    <div className="breakdown-collapse">-</div>
-                  </div>
-                </summary>
-              </details>
-              <div className="media-category-indicators">
-                {row.indicators.map((indicator) => (
-                  <div key={`${year}${indicator.name}`} className="indicator-wrapper">
-                    <label className="indicator-label">INDIKATOR:</label>
-                    <span className="indicator-text">{indicator.name}</span>
-                    <label className="response-label">ODGOVOR:</label>
-                    <span className="indicator-response">
-                      <span className="response-text">
-                        {year === "2022" ? indicator.response2022 : year === "2024" ? indicator.response2024 : indicator.response}
-                      </span>
-                      {/* Add more response handling here as per your existing logic */}
-                    </span>
-                  </div>
-                ))}
-              </div>
+
+                {/* Handle max response points */}
+                {(year === "2022" ? indicator.isMaxResponse2022 : year === "2024" ? indicator.isMaxResponse2024 : indicator.isMaxResponse) ? (
+                  <span style={{ backgroundColor: row.color }} className="response-points">
+                    {year === "2022" ? indicator.points2022 : year === "2024" ? indicator.points2024 : indicator.points}
+                  </span>
+                ) : (
+                  ""
+                )}
+
+                {/* Handle min response points */}
+                {(year === "2022" ? indicator.isMinResponse2022 : year === "2024" ? indicator.isMinResponse2024 : indicator.isMinResponse) ? (
+                  <span style={{ backgroundColor: "black", color: "white" }} className="response-points">
+                    {year === "2022" ? indicator.points2022 : year === "2024" ? indicator.points2024 : indicator.points}
+                  </span>
+                ) : (
+                  ""
+                )}
+
+                {/* Handle neutral response points */}
+                {(year === "2022" ? !indicator.isMinResponse2022 && !indicator.isMaxResponse2022 : year === "2024" ? !indicator.isMinResponse2024 && !indicator.isMaxResponse2024 : !indicator.isMinResponse && !indicator.isMaxResponse) ? (
+                  <span style={{ border: "1px solid black" }} className="response-points">
+                    {year === "2022" ? indicator.points2022 : year === "2024" ? indicator.points2024 : indicator.points}
+                  </span>
+                ) : (
+                  ""
+                )}
+              </span>
             </div>
           ))}
+        </div>
       </div>
+    ))}
+</div>
+
+
       <MediaHighlights media={media} year={year} />
     </Layout>
   );

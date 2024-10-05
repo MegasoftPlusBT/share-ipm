@@ -30,6 +30,10 @@ const RankingGridPerMediaBar = ({
               (rankingType === "category"
                 ? media.filteredTotal2022
                 : media.total2022) + "%",
+                display: 'flex', // Enables flexbox for alignment
+                alignItems: 'center', // Vertically center the content
+                fontSize: '0.5rem', // Smaller font size
+                color: '#F0368F', // Color matching the bar
             gridTemplateColumns: media.perCategory
               .filter((c) => rankingCategorySelectors[c.name])
               .map((row) => row.points2022 + "fr")
@@ -66,6 +70,10 @@ const RankingGridPerMediaBar = ({
             width:
               (rankingType === "category" ? media.filteredTotal : media.total) +
               "%",
+              display: 'flex', // Enables flexbox for alignment
+              alignItems: 'center', // Vertically center the content
+              fontSize: '0.5rem', // Smaller font size
+              color: '#14A3DB', // Color matching the bar
             gridTemplateColumns: media.perCategory
               .filter((c) => rankingCategorySelectors[c.name])
               .map((row) => row.points + "fr")
@@ -93,7 +101,7 @@ const RankingGridPerMediaBar = ({
         <div
           className={
             (is2021 || is2022
-              ? "row-start-2 row-end-3 self-start mt-0.5"
+              ? "row-start-2 row-end-3 self-start "
               : "row-start-1 row-end-3 self-center") +
             " ranking-total2024 bg-[#28A745] total" +
             (rankingType === "category"
@@ -101,15 +109,16 @@ const RankingGridPerMediaBar = ({
               : media.total2024)
           }
           style={{
-            width:
-              (rankingType === "category"
-                ? media.filteredTotal2024
-                : media.total2024) + "%",
+            width: (rankingType === "category" ? media.filteredTotal2024 : media.total2024) + "%",
+            display: 'flex', // Enables flexbox for alignment
+            alignItems: 'center', // Vertically center the content
+            fontSize: '0.5rem', // Smaller font size
+            color: '#28A745', // Color matching the bar
             gridTemplateColumns: media.perCategory
-              .filter((c) => rankingCategorySelectors[c.name])
-              .map((row) => row.points2024 + "fr")
-              .join(" "),
-          }}
+                .filter((c) => rankingCategorySelectors[c.name])
+                .map((row) => row.points2024 + "fr")
+                .join(" "),
+        }}
         >
           {media.perCategory
             .filter((c) => rankingCategorySelectors[c.name])

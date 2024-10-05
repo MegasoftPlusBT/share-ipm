@@ -10,6 +10,7 @@ const Ranking = ({ media, categories }) => {
   const [is2024, setIs2024] = useState(true); // New state for 2024
 
   let sortBy = "rank2022";
+  
   if (rankingType === "diff") {
     sortBy = "diff";
   } else if (!is2022 && !is2021 && !is2024) {
@@ -17,7 +18,7 @@ const Ranking = ({ media, categories }) => {
   } else {
     sortBy = is2022 ? "rank2022" : is2024 ? "rank2024" : "rank";
   }
-
+  console.log("sortBy",sortBy)
   const defaultCategorySelectors = {};
   categories.forEach((category) => {
     defaultCategorySelectors[category.title] = true;
@@ -54,7 +55,7 @@ const Ranking = ({ media, categories }) => {
       .reduce((sum, c) => sum + c.points2024, 0); // Added for 2024
     m.diff = m.perCategory.reduce((sum, c) => sum + c.points2022 - c.points, 0);
   });
-
+console.log("list media", list)
   list.sort((a, b) => b.diff - a.diff).forEach((m, i) => {
     m.rankDiff = i + 1;
   });
@@ -98,6 +99,8 @@ const Ranking = ({ media, categories }) => {
     if (i > 0) {
       const prev = list[i - 1];
       if (m.filteredTotal2024 === prev.filteredTotal2024) {
+        console.log("m.rank2024_filtered", m.rank2024_filtered)
+        console.log("prev.rank2024_filtered", prev.rank2024_filtered)
         m.rank2024_filtered = prev.rank2024_filtered; // Added for 2024
       }
     }
@@ -218,8 +221,8 @@ const Ranking = ({ media, categories }) => {
           .ranking-total {
             position: relative;
             border-radius: 4px;
-            margin-top: -4.5px;
-            height: 10px;
+            margin-top: 2.5px;
+            height: 8px;
             grid-column: 1 / 5;
             display: grid;
             grid-template-rows: auto;
@@ -228,20 +231,21 @@ const Ranking = ({ media, categories }) => {
             position: absolute;
             top: 0;
             right: 0;
-            margin-top: -2.5px;
+            margin-top: -0.5px;
             margin-right: -22px;
             font-family: Foundry;
             font-style: normal;
             font-weight: bold;
-            font-size: 14px;
+            font-size: 12px;
             line-height: 100%;
             text-transform: uppercase;
           }
           .ranking-total2022 {
             position: relative;
             border-radius: 4px;
-            margin-bottom: 4.5px;
-            height: 10px;
+            margin-top: 5.5px;
+            margin-bottom: -1.5px;
+            height: 8px;
             grid-column: 1 / 5;
             display: grid;
             grid-template-rows: auto;
@@ -250,21 +254,21 @@ const Ranking = ({ media, categories }) => {
             position: absolute;
             top: 0;
             right: 0;
-            margin-top: -2.5px;
+            margin-top: -0.5px;
+            margin-bottom: -0.5px;
             margin-right: -22px;
             font-family: Foundry;
             font-style: normal;
             font-weight: bold;
-            font-size: 14px;
+            font-size: 12px;
             line-height: 100%;
             text-transform: uppercase;
           }
           .ranking-total2024 {
             position: relative;
             border-radius: 4px;
-            margin-bottom: 2.5px;
-            margin-top: 3.5px;
-            height: 10px;
+            margin-top: -15.5px;
+            height: 8px;
             grid-column: 1 / 5;
             display: grid;
             grid-template-rows: auto;
@@ -273,12 +277,12 @@ const Ranking = ({ media, categories }) => {
             position: absolute;
             top: 0;
             right: 0;
-            margin-top: -2.5px;
+            margin-top: -1.5px;
             margin-right: -22px;
             font-family: Foundry;
             font-style: normal;
             font-weight: bold;
-            font-size: 14px;
+            font-size: 12px;
             line-height: 100%;
             text-transform: uppercase;
           }
@@ -349,6 +353,13 @@ const Ranking = ({ media, categories }) => {
         <h2 className="" style={{ margin: "27.4px 0" }}>
           <span className="mx-2">SIROVI PODACI</span>
           <a
+            className="mx-2 down-arrow-before"
+            target="_blank"
+            href="/documents/IPM_sirovi_podaci_2021.csv" // Added link for 2024
+          >
+            2021
+          </a>
+          <a
             className="mx-2 down-arrow-before2022"
             target="_blank"
             href="/documents/IPM_sirovi_podaci_2022.csv"
@@ -356,16 +367,9 @@ const Ranking = ({ media, categories }) => {
             2022
           </a>
           <a
-            className="mx-2 down-arrow-before"
+            className="mx-2 down-arrow-before2024"
             target="_blank"
-            href="/documents/IPM_sirovi_podaci_2021.csv"
-          >
-            2021
-          </a>
-          <a
-            className="mx-2 down-arrow-before"
-            target="_blank"
-            href="/documents/IPM_sirovi_podaci_2024.csv" // Added link for 2024
+            href="/documents/IPM_sirovi_podaci_2024.csv"
           >
             2024
           </a>
@@ -506,52 +510,7 @@ const Ranking = ({ media, categories }) => {
               </div>
             </div>
             <div className="bg-transparent inline-flex text-right font-bold ">
-            <span
-                onClick={() =>
-                  setIs2024((prevIs2024) => { // Added toggle for 2024
-                    if (rankingType === "category" && (is2021 || is2022)) {
-                      setIs2021(false);
-                      setIs2022(prevIs2024);
-                    }
-                    return !prevIs2024;
-                  })
-                }
-                style={{ fontFamily: "FoundryBold" }}
-                className={
-                  (is2024 ? "text-[#219653]" : "text-gray-400") +
-                  " p-1 cursor-pointer font-extrabold"
-                }
-              >
-                <span className="scale-[0.78] inline-block toggle-circle">
-                  ⬤
-                </span>
-                2024
-              </span>
-              <span
-                onClick={() =>
-                  setIs2022((prevIs2022) => {
-                    if (rankingType === "category" && (is2021 || is2024)) {
-                      setIs2021(prevIs2022);
-                    }
-                    if (rankingType === "diff") {
-                      setIsSortOrderAsc(false);
-                      setRankingType("total");
-                    }
-                    return !prevIs2022;
-                  })
-                }
-                style={{ fontFamily: "FoundryBold" }}
-                className={
-                  (is2022 ? "text-[#F0368F]" : "text-gray-400") +
-                  " p-1 cursor-pointer font-extrabold"
-                }
-              >
-
-                <span className="scale-[0.78] inline-block toggle-circle">
-                  ⬤
-                </span>{" "}
-                2022
-              </span>
+       
               <span
                 onClick={() =>
                   setIs2021((prevIs2021) => {
@@ -576,15 +535,64 @@ const Ranking = ({ media, categories }) => {
                 </span>{" "}
                 2021
               </span>
-            
               <span
+                onClick={() =>
+                  setIs2022((prevIs2022) => {
+                    if (rankingType === "category" && (is2021 || is2024)) {
+                      setIs2021(prevIs2022);
+                      setIs2024(false);
+                    }
+                    if (rankingType === "diff") {
+                      setIsSortOrderAsc(false);
+                      setRankingType("total");
+                    }
+                    return !prevIs2022;
+                  })
+                }
+                style={{ fontFamily: "FoundryBold" }}
+                className={
+                  (is2022 ? "text-[#F0368F]" : "text-gray-400") +
+                  " p-1 cursor-pointer font-extrabold"
+                }
+              >
+
+                <span className="scale-[0.78] inline-block toggle-circle">
+                  ⬤
+                </span>{" "}
+                2022
+              </span>
+              <span
+                onClick={() =>
+                  setIs2024((prevIs2024) => { // Added toggle for 2024
+                    console.log("prevIs2024",prevIs2024)
+                    if (rankingType === "category" && (is2021 || is2022)) {
+                      setIs2021(false);
+                      setIs2022(prevIs2024);
+                    }
+                    return !prevIs2024;
+                  })
+                }
+                style={{ fontFamily: "FoundryBold" }}
+                className={
+                  (is2024 ? "text-[#219653]" : "text-gray-400") +
+                  " p-1 cursor-pointer font-extrabold"
+                }
+              >
+                <span className="scale-[0.78] inline-block toggle-circle">
+                  ⬤
+                </span>
+                2024
+              </span>
+             
+            
+              {/* <span
                 onClick={(e) => {
                   setRankingType((v) => {
                     if (v === "diff") {
                       setIsSortOrderAsc(false);
-                      setIs2022(false);
+                      setIs2022(true);
                       setIs2021(false);
-                      setIs2024(true); // Reset for 2024
+                      setIs2024(false); // Reset for 2024
                       return "total";
                     } else {
                       setIsSortOrderAsc(true);
@@ -606,7 +614,7 @@ const Ranking = ({ media, categories }) => {
                   ⬤
                 </span>
                 RAZLIKE
-              </span>
+              </span> */}
               <style>{`
               .ranking-type-selector {
                 padding-top: 6px;
