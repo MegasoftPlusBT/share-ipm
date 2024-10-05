@@ -431,7 +431,7 @@ const Ranking = ({ media, categories }) => {
                   setRankingType("total");
                   setIsSortOrderAsc(false);
                   if (!is2022 && !is2021 && !is2024) {
-                    setIs2022(true);
+                    setIs2024(true);
                   }
                 }}
                 className={
@@ -451,10 +451,20 @@ const Ranking = ({ media, categories }) => {
                   onClick={(e) => {
                     setRankingType("category");
                     setIsSortOrderAsc(false);
+                  
+                    // Set is2024 to true only if it's not 2022 or 2021
                     if (!is2022 && !is2021 && !is2024) {
                       setIs2024(true);
+                      setIs2022(false);  // Ensure 2022 is false when selecting 2024
+                      setIs2021(false);  // Ensure 2021 is false when selecting 2024
                     } else if (is2022) {
-                      setIs2021(false);
+                      setIs2022(false);  // Reset 2022 when it's already selected
+                      setIs2021(false);  // Ensure 2021 is false when selecting 2022
+                      setIs2024(true);  // Ensure 2024 is false when selecting 2022
+                    } else if (is2021) {
+                      setIs2021(false);  // Reset 2021 when it's already selected
+                      setIs2022(false);  // Ensure 2022 is false when selecting 2021
+                      setIs2024(true);  // Ensure 2024 is false when selecting 2021
                     }
                   }}
                 >
