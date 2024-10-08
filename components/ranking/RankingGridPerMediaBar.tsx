@@ -17,7 +17,7 @@ const RankingGridPerMediaBar = ({
       {media.total2022 != 0 && is2022 && rankingType !== "diff" && (
         <div
           className={
-            (is2021
+            (is2021 || is2024
               ? "row-start-1 row-end-2 self-end mb-px"
               : "row-start-1 row-end-3 self-center") +
             " ranking-total2022 bg-[#F0368F] total" +
@@ -60,7 +60,7 @@ const RankingGridPerMediaBar = ({
       {rankingType !== "diff" && is2021 && (
         <div
           className={
-            (is2022
+            (is2022 || is2024
               ? "row-start-2 row-end-3 self-start mt-0.5"
               : "row-start-1 row-end-3 self-center") +
             " ranking-total bg-[#14A3DB] total" +

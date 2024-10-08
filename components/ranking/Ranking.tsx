@@ -9,7 +9,7 @@ const Ranking = ({ media, categories }) => {
   const [is2021, setIs2021] = useState(false);
   const [is2024, setIs2024] = useState(true); // New state for 2024
 
-  let sortBy = "rank2022";
+  let sortBy = "rank2024";
   
   if (rankingType === "diff") {
     sortBy = "diff";
@@ -217,17 +217,19 @@ const Ranking = ({ media, categories }) => {
           .ranking-total {
             position: relative;
             border-radius: 4px;
-            margin-top: 2.5px;
+            margin-top: -15.5px;
+            
             height: 8px;
             grid-column: 1 / 5;
             display: grid;
             grid-template-rows: auto;
+            
           }
           .ranking-total::after {
             position: absolute;
             top: 0;
             right: 0;
-            margin-top: -0.5px;
+            margin-top: -1.5px;
             margin-right: -22px;
             font-family: Foundry;
             font-style: normal;
@@ -239,19 +241,20 @@ const Ranking = ({ media, categories }) => {
           .ranking-total2022 {
             position: relative;
             border-radius: 4px;
-            margin-top: 5.5px;
+            margin-top: 4.5px;
             margin-bottom: -1.5px;
             height: 8px;
             grid-column: 1 / 5;
             display: grid;
             grid-template-rows: auto;
+            
           }
           .ranking-total2022::after {
             position: absolute;
             top: 0;
             right: 0;
-            margin-top: -0.5px;
-            margin-bottom: -0.5px;
+            margin-top: -1.5px;
+            margin-bottom: 9.5px;
             margin-right: -22px;
             font-family: Foundry;
             font-style: normal;
@@ -263,17 +266,19 @@ const Ranking = ({ media, categories }) => {
           .ranking-total2024 {
             position: relative;
             border-radius: 4px;
-            margin-top: -15.5px;
+            margin-top:2.5px;  
+            margin-bottom: -6.5px;
             height: 8px;
             grid-column: 1 / 5;
             display: grid;
             grid-template-rows: auto;
+        
           }
           .ranking-total2024::after {
             position: absolute;
             top: 0;
             right: 0;
-            margin-top: -1.5px;
+            margin-top: 1px;
             margin-right: -22px;
             font-family: Foundry;
             font-style: normal;
