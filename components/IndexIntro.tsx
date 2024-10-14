@@ -16,17 +16,17 @@ const IndexIntro = () => {
       </p>
       <h2 style={{ textAlign: "center" }} className="mt-8">
         <span className="mx-2">VAŽNI NALAZI</span>
-        <a className="key-findings-link2024 mx-2" href="/key-findings?y=2024">
+        <a className="key-findings-link mx-2" href="/key-findings?y=2021">
           {" "}
-          2024
+          2021
         </a>
         <a className="key-findings-link2022 mx-2" href="/key-findings?y=2022">
           {" "}
           2022
         </a>
-        <a className="key-findings-link mx-2" href="/key-findings?y=2021">
+        <a className="key-findings-link2024 mx-2" href="/key-findings?y=2024">
           {" "}
-          2021
+          2024
         </a>
       </h2>
       <style>
