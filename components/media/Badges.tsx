@@ -14,7 +14,7 @@ const Badges = ({ year, badges }) => {
               key={badge}
               className={
                 badge === "BIG Shampion 2024.png"
-                  ? "h-[200px]  2xl:h-[250px]  2xl:mb-8 xl:h-[170px]  xl:mb-4"
+                  ? "h-[100px]  2xl:h-[180px]  2xl:mb-8 xl:h-[170px]  xl:mb-4"
                   : "h-[100px]  2xl:h-[150px]  2xl:mb-8 xl:h-[125px]  xl:mb-4"
               }
               src={`/images/${badge}`}
