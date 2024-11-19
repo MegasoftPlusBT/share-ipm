@@ -60,21 +60,11 @@ const Footer = () => {
         </a>
         <h4 className="mt-2">Izjava o privatnosti</h4>
         <p className="mb-2">
-          Sajtom na adresi indeks.onlajnmediji.rs upravlja Share Fondacija,
-          Kapetan Mišina 6a, Kancelarija 31, Beograd. Prilikom vaše posete sajtu
-          indeks.onlajnmediji.rs ne prikupljaju se podaci o ličnosti, niti se
-          koriste kolačići (cookies).
+        Sajtom na adresi indeks.onlajnmediji.rs upravlja Share Fondacija, Stojana Novakovića 23, Beograd. Prilikom vaše posete sajtu indeks.onlajnmediji.rs ne prikupljaju se podaci o ličnosti, niti se koriste kolačići (cookies).
         </p>
       </section>
       <section className="right">
         <h4>Projekat podržali:</h4>
-    
-        <img
-          src="/images/footer-logo-2.png"
-          className="support-logo"
-          height="88"
-          style={{ height: "88px" }}
-        />
         <img
           src="/images/kingdom-of-the-netherlands-logo.png"
           className="support-logo"
@@ -82,9 +72,7 @@ const Footer = () => {
           style={{ height: "88px" }}
         />
         <p className="my-2">
-          Stavovi izraženi na ovom sajtu ne predstavljaju nužno stavove Ambasade
-          Kraljevine Holandije u Beogradu, Ambasade Kraljevine Norveške ili
-          njihovih partnera.
+        Indeks privatnosti u medijima je izrađen u okviru projekta Cena privatnosti koji partnerski sprovode BIRN Srbija, SHARE Fondacija i Partneri Srbija, uz finansijsku podršku MATRA programa.
         </p>
       </section>
     </footer>
